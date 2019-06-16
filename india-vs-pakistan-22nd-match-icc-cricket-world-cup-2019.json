@@ -1,0 +1,397 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "India",
+        "shortName": "India",
+        "abbrev": "INDIA",
+        "score": "336/5"
+      },
+      {
+        "name": "Pakistan",
+        "shortName": "Pakistan",
+        "abbrev": "PAK",
+        "score": "212/6 (40 ov, target 302)"
+      }
+    ],
+    "info": "22nd match, ICC Cricket World Cup at Manchester, Jun 16 2019",
+    "scoreNotes": "India won by 89 runs (D/L method)"
+  },
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "KL Rahul",
+          "commentary": "c Babar Azam b Wahab Riaz",
+          "r": "57",
+          "b": "78",
+          "m": "94",
+          "4s": "3",
+          "6s": "2",
+          "sr": "73.07",
+          "wicket": {
+            "over": "23.5",
+            "score": "136/1"
+          }
+        },
+        {
+          "name": "RG Sharma",
+          "commentary": "c Wahab Riaz b Hasan Ali",
+          "r": "140",
+          "b": "113",
+          "m": "153",
+          "4s": "14",
+          "6s": "3",
+          "sr": "123.89",
+          "wicket": {
+            "over": "38.2",
+            "score": "234/2"
+          }
+        },
+        {
+          "name": "V Kohli (c)",
+          "commentary": "c †Sarfaraz Ahmed b Mohammad Amir",
+          "r": "77",
+          "b": "65",
+          "m": "105",
+          "4s": "7",
+          "6s": "0",
+          "sr": "118.46",
+          "wicket": {
+            "over": "47.4",
+            "score": "314/5"
+          }
+        },
+        {
+          "name": "HH Pandya",
+          "commentary": "c Babar Azam b Mohammad Amir",
+          "r": "26",
+          "b": "19",
+          "m": "24",
+          "4s": "2",
+          "6s": "1",
+          "sr": "136.84",
+          "wicket": {
+            "over": "43.5",
+            "score": "285/3"
+          }
+        },
+        {
+          "name": "MS Dhoni †",
+          "commentary": "c †Sarfaraz Ahmed b Mohammad Amir",
+          "r": "1",
+          "b": "2",
+          "m": "8",
+          "4s": "0",
+          "6s": "0",
+          "sr": "50.00",
+          "wicket": {
+            "over": "45.1",
+            "score": "298/4"
+          }
+        },
+        {
+          "name": "V Shankar",
+          "commentary": "not out",
+          "r": "15",
+          "b": "15",
+          "m": "27",
+          "4s": "1",
+          "6s": "0",
+          "sr": "100.00"
+        },
+        {
+          "name": "KM Jadhav",
+          "commentary": "not out",
+          "r": "9",
+          "b": "8",
+          "m": "13",
+          "4s": "1",
+          "6s": "0",
+          "sr": "112.50"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mohammad Amir",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "47",
+          "wickets": "3",
+          "econ": "4.70",
+          "0s": "33",
+          "4s": "5",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "Hasan Ali",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "84",
+          "wickets": "1",
+          "econ": "9.33",
+          "0s": "20",
+          "4s": "8",
+          "6s": "3",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "Wahab Riaz",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "71",
+          "wickets": "1",
+          "econ": "7.10",
+          "0s": "20",
+          "4s": "7",
+          "6s": "0",
+          "wd": "5",
+          "nb": "0"
+        },
+        {
+          "name": "Imad Wasim",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "49",
+          "wickets": "0",
+          "econ": "4.90",
+          "0s": "23",
+          "4s": "2",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "Shadab Khan",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "61",
+          "wickets": "0",
+          "econ": "6.77",
+          "0s": "19",
+          "4s": "5",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "Shoaib Malik",
+          "overs": "1",
+          "maiden": "0",
+          "runs": "11",
+          "wickets": "0",
+          "econ": "11.00",
+          "0s": "0",
+          "4s": "0",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "1",
+          "maiden": "0",
+          "runs": "11",
+          "wickets": "0",
+          "econ": "11.00",
+          "0s": "3",
+          "4s": "1",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "Imam-ul-Haq",
+          "commentary": "lbw b Shankar",
+          "r": "7",
+          "b": "18",
+          "m": "23",
+          "4s": "1",
+          "6s": "0",
+          "sr": "38.88",
+          "wicket": {
+            "over": "4.5",
+            "score": "13/1"
+          }
+        },
+        {
+          "name": "Fakhar Zaman",
+          "commentary": "c Chahal b Kuldeep Yadav",
+          "r": "62",
+          "b": "75",
+          "m": "112",
+          "4s": "7",
+          "6s": "1",
+          "sr": "82.66",
+          "wicket": {
+            "over": "25.2",
+            "score": "126/3"
+          }
+        },
+        {
+          "name": "Babar Azam",
+          "commentary": " b Kuldeep Yadav",
+          "r": "48",
+          "b": "57",
+          "m": "83",
+          "4s": "3",
+          "6s": "1",
+          "sr": "84.21",
+          "wicket": {
+            "over": "23.6",
+            "score": "117/2"
+          }
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "commentary": "c Shankar b Pandya",
+          "r": "9",
+          "b": "7",
+          "m": "13",
+          "4s": "0",
+          "6s": "1",
+          "sr": "128.57",
+          "wicket": {
+            "over": "26.5",
+            "score": "129/4"
+          }
+        },
+        {
+          "name": "Sarfaraz Ahmed (c) †",
+          "commentary": " b Shankar",
+          "r": "12",
+          "b": "30",
+          "m": "42",
+          "4s": "0",
+          "6s": "0",
+          "sr": "40.00",
+          "wicket": {
+            "over": "34.1",
+            "score": "165/6"
+          }
+        },
+        {
+          "name": "Shoaib Malik",
+          "commentary": " b Pandya",
+          "r": "0",
+          "b": "1",
+          "m": "3",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "26.6",
+            "score": "129/5"
+          }
+        },
+        {
+          "name": "Imad Wasim",
+          "commentary": "not out",
+          "r": "46",
+          "b": "39",
+          "m": "57",
+          "4s": "6",
+          "6s": "0",
+          "sr": "117.94"
+        },
+        {
+          "name": "Shadab Khan",
+          "commentary": "not out",
+          "r": "20",
+          "b": "14",
+          "m": "24",
+          "4s": "1",
+          "6s": "0",
+          "sr": "142.85"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "B Kumar",
+          "overs": "2.4",
+          "maiden": "0",
+          "runs": "8",
+          "wickets": "0",
+          "econ": "3.00",
+          "0s": "12",
+          "4s": "1",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "52",
+          "wickets": "0",
+          "econ": "6.50",
+          "0s": "24",
+          "4s": "8",
+          "6s": "0",
+          "wd": "0",
+          "nb": "1"
+        },
+        {
+          "name": "V Shankar",
+          "overs": "5.2",
+          "maiden": "0",
+          "runs": "22",
+          "wickets": "2",
+          "econ": "4.12",
+          "0s": "19",
+          "4s": "2",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "HH Pandya",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "44",
+          "wickets": "2",
+          "econ": "5.50",
+          "0s": "21",
+          "4s": "5",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "9",
+          "maiden": "1",
+          "runs": "32",
+          "wickets": "2",
+          "econ": "3.55",
+          "0s": "28",
+          "4s": "1",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "YS Chahal",
+          "overs": "7",
+          "maiden": "0",
+          "runs": "53",
+          "wickets": "0",
+          "econ": "7.57",
+          "0s": "13",
+          "4s": "1",
+          "6s": "3",
+          "wd": "2",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
+}
