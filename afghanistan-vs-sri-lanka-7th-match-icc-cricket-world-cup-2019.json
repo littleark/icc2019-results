@@ -1,0 +1,490 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Sri Lanka",
+        "shortName": "Sri Lanka",
+        "abbrev": "SL",
+        "score": "201"
+      },
+      {
+        "name": "Afghanistan",
+        "shortName": "Afghanistan",
+        "abbrev": "AFG",
+        "score": "152 (32.4/41 ov, target 187)"
+      }
+    ],
+    "info": "7th match, ICC Cricket World Cup at Cardiff, Jun 4 2019",
+    "scoreNotes": "Sri Lanka won by 34 runs (D/L method)"
+  },
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "FDM Karunaratne (c)",
+          "commentary": "c Najibullah Zadran b Mohammad Nabi",
+          "r": "30",
+          "b": "45",
+          "m": "57",
+          "4s": "3",
+          "6s": "0",
+          "sr": "66.66",
+          "wicket": {
+            "over": "13.1",
+            "score": "92/1"
+          }
+        },
+        {
+          "name": "MDKJ Perera †",
+          "commentary": "c †Mohammad Shahzad b Rashid Khan",
+          "r": "78",
+          "b": "81",
+          "m": "150",
+          "4s": "8",
+          "6s": "0",
+          "sr": "96.29",
+          "wicket": {
+            "over": "32.2",
+            "score": "180/8"
+          }
+        },
+        {
+          "name": "HDRL Thirimanne",
+          "commentary": " b Mohammad Nabi",
+          "r": "25",
+          "b": "34",
+          "m": "39",
+          "4s": "1",
+          "6s": "0",
+          "sr": "73.52",
+          "wicket": {
+            "over": "21.2",
+            "score": "144/2"
+          }
+        },
+        {
+          "name": "BKG Mendis",
+          "commentary": "c Rahmat Shah b Mohammad Nabi",
+          "r": "2",
+          "b": "2",
+          "m": "4",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00",
+          "wicket": {
+            "over": "21.4",
+            "score": "146/3"
+          }
+        },
+        {
+          "name": "AD Mathews",
+          "commentary": "c Rahmat Shah b Mohammad Nabi",
+          "r": "0",
+          "b": "2",
+          "m": "5",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "21.6",
+            "score": "146/4"
+          }
+        },
+        {
+          "name": "DM de Silva",
+          "commentary": "c †Mohammad Shahzad b Hamid Hassan",
+          "r": "0",
+          "b": "4",
+          "m": "7",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "22.6",
+            "score": "149/5"
+          }
+        },
+        {
+          "name": "NLTC Perera",
+          "commentary": "run out (Hashmatullah Shahidi/†Mohammad Shahzad)",
+          "r": "2",
+          "b": "4",
+          "m": "12",
+          "4s": "0",
+          "6s": "0",
+          "sr": "50.00",
+          "wicket": {
+            "over": "25.4",
+            "score": "159/6"
+          }
+        },
+        {
+          "name": "I Udana",
+          "commentary": " b Dawlat Zadran",
+          "r": "10",
+          "b": "21",
+          "m": "22",
+          "4s": "0",
+          "6s": "1",
+          "sr": "47.61",
+          "wicket": {
+            "over": "31.3",
+            "score": "178/7"
+          }
+        },
+        {
+          "name": "RAS Lakmal",
+          "commentary": "not out",
+          "r": "15",
+          "b": "13",
+          "m": "26",
+          "4s": "2",
+          "6s": "0",
+          "sr": "115.38"
+        },
+        {
+          "name": "SL Malinga",
+          "commentary": " b Dawlat Zadran",
+          "r": "4",
+          "b": "14",
+          "m": "15",
+          "4s": "1",
+          "6s": "0",
+          "sr": "28.57",
+          "wicket": {
+            "over": "35.6",
+            "score": "199/9"
+          }
+        },
+        {
+          "name": "N Pradeep",
+          "commentary": " b Rashid Khan",
+          "r": "0",
+          "b": "4",
+          "m": "6",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "36.5",
+            "score": "201/10"
+          }
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dawlat Zadran",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "34",
+          "wickets": "2",
+          "econ": "5.66",
+          "0s": "24",
+          "4s": "5",
+          "6s": "0",
+          "wd": "3",
+          "nb": "0"
+        },
+        {
+          "name": "Hamid Hassan",
+          "overs": "7",
+          "maiden": "0",
+          "runs": "53",
+          "wickets": "1",
+          "econ": "7.57",
+          "0s": "17",
+          "4s": "4",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "Mujeeb Ur Rahman",
+          "overs": "3",
+          "maiden": "0",
+          "runs": "19",
+          "wickets": "0",
+          "econ": "6.33",
+          "0s": "9",
+          "4s": "3",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "Mohammad Nabi",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "30",
+          "wickets": "4",
+          "econ": "3.33",
+          "0s": "33",
+          "4s": "0",
+          "6s": "1",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "Gulbadin Naib",
+          "overs": "4",
+          "maiden": "0",
+          "runs": "38",
+          "wickets": "0",
+          "econ": "9.50",
+          "0s": "6",
+          "4s": "3",
+          "6s": "0",
+          "wd": "2",
+          "nb": "3"
+        },
+        {
+          "name": "Rashid Khan",
+          "overs": "7.5",
+          "maiden": "1",
+          "runs": "17",
+          "wickets": "2",
+          "econ": "2.17",
+          "0s": "34",
+          "4s": "0",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "Mohammad Shahzad †",
+          "commentary": "c Karunaratne b Malinga",
+          "r": "7",
+          "b": "12",
+          "m": "24",
+          "4s": "1",
+          "6s": "0",
+          "sr": "58.33",
+          "wicket": {
+            "over": "4.4",
+            "score": "34/1"
+          }
+        },
+        {
+          "name": "Hazratullah Zazai",
+          "commentary": "c NLTC Perera b Pradeep",
+          "r": "30",
+          "b": "25",
+          "m": "48",
+          "4s": "3",
+          "6s": "1",
+          "sr": "120.00",
+          "wicket": {
+            "over": "8.4",
+            "score": "44/3"
+          }
+        },
+        {
+          "name": "Rahmat Shah",
+          "commentary": "c Mathews b Udana",
+          "r": "2",
+          "b": "11",
+          "m": "18",
+          "4s": "0",
+          "6s": "0",
+          "sr": "18.18",
+          "wicket": {
+            "over": "7.5",
+            "score": "42/2"
+          }
+        },
+        {
+          "name": "Hashmatullah Shahidi",
+          "commentary": "c †MDKJ Perera b Pradeep",
+          "r": "4",
+          "b": "17",
+          "m": "24",
+          "4s": "0",
+          "6s": "0",
+          "sr": "23.52",
+          "wicket": {
+            "over": "12.5",
+            "score": "57/4"
+          }
+        },
+        {
+          "name": "Mohammad Nabi",
+          "commentary": " b NLTC Perera",
+          "r": "11",
+          "b": "16",
+          "m": "21",
+          "4s": "1",
+          "6s": "0",
+          "sr": "68.75",
+          "wicket": {
+            "over": "13.4",
+            "score": "57/5"
+          }
+        },
+        {
+          "name": "Gulbadin Naib (c)",
+          "commentary": "lbw b Pradeep",
+          "r": "23",
+          "b": "32",
+          "m": "56",
+          "4s": "2",
+          "6s": "0",
+          "sr": "71.87",
+          "wicket": {
+            "over": "24.5",
+            "score": "121/6"
+          }
+        },
+        {
+          "name": "Najibullah Zadran",
+          "commentary": "run out (Karunaratne)",
+          "r": "43",
+          "b": "56",
+          "m": "92",
+          "4s": "6",
+          "6s": "0",
+          "sr": "76.78",
+          "wicket": {
+            "over": "31.6",
+            "score": "145/9"
+          }
+        },
+        {
+          "name": "Rashid Khan",
+          "commentary": " b Pradeep",
+          "r": "2",
+          "b": "4",
+          "m": "7",
+          "4s": "0",
+          "6s": "0",
+          "sr": "50.00",
+          "wicket": {
+            "over": "26.1",
+            "score": "123/7"
+          }
+        },
+        {
+          "name": "Dawlat Zadran",
+          "commentary": " b Malinga",
+          "r": "6",
+          "b": "18",
+          "m": "25",
+          "4s": "1",
+          "6s": "0",
+          "sr": "33.33",
+          "wicket": {
+            "over": "30.4",
+            "score": "136/8"
+          }
+        },
+        {
+          "name": "Hamid Hassan",
+          "commentary": " b Malinga",
+          "r": "6",
+          "b": "5",
+          "m": "12",
+          "4s": "0",
+          "6s": "1",
+          "sr": "120.00",
+          "wicket": {
+            "over": "32.4",
+            "score": "152/10"
+          }
+        },
+        {
+          "name": "Mujeeb Ur Rahman",
+          "commentary": "not out",
+          "r": "1",
+          "b": "1",
+          "m": "4",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "SL Malinga",
+          "overs": "6.4",
+          "maiden": "0",
+          "runs": "39",
+          "wickets": "3",
+          "econ": "5.85",
+          "0s": "23",
+          "4s": "4",
+          "6s": "1",
+          "wd": "3",
+          "nb": "0"
+        },
+        {
+          "name": "RAS Lakmal",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "27",
+          "wickets": "0",
+          "econ": "4.50",
+          "0s": "23",
+          "4s": "2",
+          "6s": "1",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "I Udana",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "28",
+          "wickets": "1",
+          "econ": "4.66",
+          "0s": "22",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "1"
+        },
+        {
+          "name": "N Pradeep",
+          "overs": "9",
+          "maiden": "1",
+          "runs": "31",
+          "wickets": "4",
+          "econ": "3.44",
+          "0s": "41",
+          "4s": "3",
+          "6s": "0",
+          "wd": "4",
+          "nb": "0"
+        },
+        {
+          "name": "NLTC Perera",
+          "overs": "4",
+          "maiden": "0",
+          "runs": "19",
+          "wickets": "1",
+          "econ": "4.75",
+          "0s": "16",
+          "4s": "2",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "DM de Silva",
+          "overs": "1",
+          "maiden": "0",
+          "runs": "7",
+          "wickets": "0",
+          "econ": "7.00",
+          "0s": "2",
+          "4s": "1",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
+}

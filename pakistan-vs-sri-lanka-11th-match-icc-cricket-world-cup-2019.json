@@ -1,0 +1,30 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Pakistan",
+        "shortName": "Pakistan",
+        "abbrev": "PAK",
+        "score": ""
+      },
+      {
+        "name": "Sri Lanka",
+        "shortName": "Sri Lanka",
+        "abbrev": "SL",
+        "score": ""
+      }
+    ],
+    "info": "11th match, ICC Cricket World Cup at Bristol, Jun 7 2019",
+    "scoreNotes": "Match abandoned without a ball bowled"
+  },
+  "players": [
+    {
+      "batsmen": [],
+      "bowling": []
+    },
+    {
+      "batsmen": [],
+      "bowling": []
+    }
+  ]
+}

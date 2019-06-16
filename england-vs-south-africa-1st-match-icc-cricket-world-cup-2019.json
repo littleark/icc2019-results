@@ -1,0 +1,485 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "England",
+        "shortName": "England",
+        "abbrev": "ENG",
+        "score": "311/8"
+      },
+      {
+        "name": "South Africa",
+        "shortName": "South Africa",
+        "abbrev": "SA",
+        "score": "207 (39.5/50 ov)"
+      }
+    ],
+    "info": "1st match, ICC Cricket World Cup at London, May 30 2019",
+    "scoreNotes": "England won by 104 runs"
+  },
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "JJ Roy",
+          "commentary": "c du Plessis b Phehlukwayo",
+          "r": "54",
+          "b": "53",
+          "m": "80",
+          "4s": "8",
+          "6s": "0",
+          "sr": "101.88",
+          "wicket": {
+            "over": "18.4",
+            "score": "107/2"
+          }
+        },
+        {
+          "name": "JM Bairstow",
+          "commentary": "c †de Kock b Imran Tahir",
+          "r": "0",
+          "b": "1",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "0.2",
+            "score": "1/1"
+          }
+        },
+        {
+          "name": "JE Root",
+          "commentary": "c Duminy b Rabada",
+          "r": "51",
+          "b": "59",
+          "m": "83",
+          "4s": "5",
+          "6s": "0",
+          "sr": "86.44",
+          "wicket": {
+            "over": "19.1",
+            "score": "111/3"
+          }
+        },
+        {
+          "name": "EJG Morgan (c)",
+          "commentary": "c Markram b Imran Tahir",
+          "r": "57",
+          "b": "60",
+          "m": "73",
+          "4s": "4",
+          "6s": "3",
+          "sr": "95.00",
+          "wicket": {
+            "over": "36.5",
+            "score": "217/4"
+          }
+        },
+        {
+          "name": "BA Stokes",
+          "commentary": "c Amla b Ngidi",
+          "r": "89",
+          "b": "79",
+          "m": "132",
+          "4s": "9",
+          "6s": "0",
+          "sr": "112.65",
+          "wicket": {
+            "over": "48.6",
+            "score": "300/8"
+          }
+        },
+        {
+          "name": "JC Buttler †",
+          "commentary": " b Ngidi",
+          "r": "18",
+          "b": "16",
+          "m": "21",
+          "4s": "0",
+          "6s": "0",
+          "sr": "112.50",
+          "wicket": {
+            "over": "41.2",
+            "score": "247/5"
+          }
+        },
+        {
+          "name": "MM Ali",
+          "commentary": "c du Plessis b Ngidi",
+          "r": "3",
+          "b": "9",
+          "m": "13",
+          "4s": "0",
+          "6s": "0",
+          "sr": "33.33",
+          "wicket": {
+            "over": "43.6",
+            "score": "260/6"
+          }
+        },
+        {
+          "name": "CR Woakes",
+          "commentary": "c du Plessis b Rabada",
+          "r": "13",
+          "b": "14",
+          "m": "24",
+          "4s": "1",
+          "6s": "0",
+          "sr": "92.85",
+          "wicket": {
+            "over": "47.3",
+            "score": "285/7"
+          }
+        },
+        {
+          "name": "LE Plunkett",
+          "commentary": "not out",
+          "r": "9",
+          "b": "6",
+          "m": "11",
+          "4s": "1",
+          "6s": "0",
+          "sr": "150.00"
+        },
+        {
+          "name": "JC Archer",
+          "commentary": "not out",
+          "r": "7",
+          "b": "3",
+          "m": "3",
+          "4s": "1",
+          "6s": "0",
+          "sr": "233.33"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Imran Tahir",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "61",
+          "wickets": "2",
+          "econ": "6.10",
+          "0s": "20",
+          "4s": "4",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "L Ngidi",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "66",
+          "wickets": "3",
+          "econ": "6.60",
+          "0s": "28",
+          "4s": "6",
+          "6s": "2",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "K Rabada",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "66",
+          "wickets": "2",
+          "econ": "6.60",
+          "0s": "24",
+          "4s": "8",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "D Pretorius",
+          "overs": "7",
+          "maiden": "0",
+          "runs": "42",
+          "wickets": "0",
+          "econ": "6.00",
+          "0s": "17",
+          "4s": "5",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "44",
+          "wickets": "1",
+          "econ": "5.50",
+          "0s": "23",
+          "4s": "4",
+          "6s": "0",
+          "wd": "4",
+          "nb": "0"
+        },
+        {
+          "name": "JP Duminy",
+          "overs": "2",
+          "maiden": "0",
+          "runs": "14",
+          "wickets": "0",
+          "econ": "7.00",
+          "0s": "3",
+          "4s": "1",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "AK Markram",
+          "overs": "3",
+          "maiden": "0",
+          "runs": "16",
+          "wickets": "0",
+          "econ": "5.33",
+          "0s": "10",
+          "4s": "1",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "Q de Kock †",
+          "commentary": "c Root b Plunkett",
+          "r": "68",
+          "b": "74",
+          "m": "94",
+          "4s": "6",
+          "6s": "2",
+          "sr": "91.89",
+          "wicket": {
+            "over": "22.6",
+            "score": "129/3"
+          }
+        },
+        {
+          "name": "HM Amla",
+          "commentary": "c †Buttler b Plunkett",
+          "r": "13",
+          "b": "23",
+          "m": "46",
+          "4s": "1",
+          "6s": "0",
+          "sr": "56.52",
+          "wicket": {
+            "over": "38.1",
+            "score": "193/8"
+          }
+        },
+        {
+          "name": "AK Markram",
+          "commentary": "c Root b Archer",
+          "r": "11",
+          "b": "12",
+          "m": "17",
+          "4s": "2",
+          "6s": "0",
+          "sr": "91.66",
+          "wicket": {
+            "over": "7.4",
+            "score": "36/1"
+          }
+        },
+        {
+          "name": "F du Plessis (c)",
+          "commentary": "c Ali b Archer",
+          "r": "5",
+          "b": "7",
+          "m": "11",
+          "4s": "1",
+          "6s": "0",
+          "sr": "71.42",
+          "wicket": {
+            "over": "9.3",
+            "score": "44/2"
+          }
+        },
+        {
+          "name": "HE van der Dussen",
+          "commentary": "c Ali b Archer",
+          "r": "50",
+          "b": "61",
+          "m": "85",
+          "4s": "4",
+          "6s": "1",
+          "sr": "81.96",
+          "wicket": {
+            "over": "31.5",
+            "score": "167/6"
+          }
+        },
+        {
+          "name": "JP Duminy",
+          "commentary": "c Stokes b Ali",
+          "r": "8",
+          "b": "11",
+          "m": "12",
+          "4s": "1",
+          "6s": "0",
+          "sr": "72.72",
+          "wicket": {
+            "over": "25.5",
+            "score": "142/4"
+          }
+        },
+        {
+          "name": "D Pretorius",
+          "commentary": "run out (Stokes/Morgan)",
+          "r": "1",
+          "b": "1",
+          "m": "6",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00",
+          "wicket": {
+            "over": "26.2",
+            "score": "144/5"
+          }
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "commentary": "c Stokes b Rashid",
+          "r": "24",
+          "b": "25",
+          "m": "34",
+          "4s": "4",
+          "6s": "0",
+          "sr": "96.00",
+          "wicket": {
+            "over": "34.1",
+            "score": "180/7"
+          }
+        },
+        {
+          "name": "K Rabada",
+          "commentary": "c Plunkett b Stokes",
+          "r": "11",
+          "b": "19",
+          "m": "23",
+          "4s": "2",
+          "6s": "0",
+          "sr": "57.89",
+          "wicket": {
+            "over": "39.4",
+            "score": "207/9"
+          }
+        },
+        {
+          "name": "L Ngidi",
+          "commentary": "not out",
+          "r": "6",
+          "b": "5",
+          "m": "10",
+          "4s": "0",
+          "6s": "1",
+          "sr": "120.00"
+        },
+        {
+          "name": "Imran Tahir",
+          "commentary": "c Root b Stokes",
+          "r": "0",
+          "b": "1",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "39.5",
+            "score": "207/10"
+          }
+        }
+      ],
+      "bowling": [
+        {
+          "name": "CR Woakes",
+          "overs": "5",
+          "maiden": "0",
+          "runs": "24",
+          "wickets": "0",
+          "econ": "4.80",
+          "0s": "20",
+          "4s": "4",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "JC Archer",
+          "overs": "7",
+          "maiden": "1",
+          "runs": "27",
+          "wickets": "3",
+          "econ": "3.85",
+          "0s": "29",
+          "4s": "4",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "35",
+          "wickets": "1",
+          "econ": "4.37",
+          "0s": "27",
+          "4s": "4",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "MM Ali",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "63",
+          "wickets": "1",
+          "econ": "6.30",
+          "0s": "28",
+          "4s": "6",
+          "6s": "2",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "LE Plunkett",
+          "overs": "7",
+          "maiden": "0",
+          "runs": "37",
+          "wickets": "2",
+          "econ": "5.28",
+          "0s": "20",
+          "4s": "1",
+          "6s": "2",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "BA Stokes",
+          "overs": "2.5",
+          "maiden": "0",
+          "runs": "12",
+          "wickets": "2",
+          "econ": "4.23",
+          "0s": "11",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
+}

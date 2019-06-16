@@ -1,0 +1,30 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "India",
+        "shortName": "India",
+        "abbrev": "INDIA",
+        "score": ""
+      },
+      {
+        "name": "New Zealand",
+        "shortName": "New Zealand",
+        "abbrev": "NZ",
+        "score": ""
+      }
+    ],
+    "info": "18th match, ICC Cricket World Cup at Nottingham, Jun 13 2019",
+    "scoreNotes": "Match abandoned without a ball bowled"
+  },
+  "players": [
+    {
+      "batsmen": [],
+      "bowling": []
+    },
+    {
+      "batsmen": [],
+      "bowling": []
+    }
+  ]
+}
