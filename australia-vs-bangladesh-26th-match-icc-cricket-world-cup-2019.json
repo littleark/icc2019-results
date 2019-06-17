@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Australia",
+        "shortName": "Australia",
+        "abbrev": "AUS",
+        "score": ""
+      },
+      {
+        "name": "Bangladesh",
+        "shortName": "Bangladesh",
+        "abbrev": "BDESH",
+        "score": ""
+      }
+    ],
+    "info": "26th match, ICC Cricket World Cup at Nottingham, Jun 20 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

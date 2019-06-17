@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Afghanistan",
+        "shortName": "Afghanistan",
+        "abbrev": "AFG",
+        "score": ""
+      },
+      {
+        "name": "England",
+        "shortName": "England",
+        "abbrev": "ENG",
+        "score": ""
+      }
+    ],
+    "info": "24th match, ICC Cricket World Cup at Manchester, Jun 18 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

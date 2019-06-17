@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "New Zealand",
+        "shortName": "New Zealand",
+        "abbrev": "NZ",
+        "score": ""
+      },
+      {
+        "name": "South Africa",
+        "shortName": "South Africa",
+        "abbrev": "SA",
+        "score": ""
+      }
+    ],
+    "info": "25th match, ICC Cricket World Cup at Birmingham, Jun 19 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}
