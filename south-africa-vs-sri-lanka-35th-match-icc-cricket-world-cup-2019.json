@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "South Africa",
+        "shortName": "South Africa",
+        "abbrev": "SA",
+        "score": ""
+      },
+      {
+        "name": "Sri Lanka",
+        "shortName": "Sri Lanka",
+        "abbrev": "SL",
+        "score": ""
+      }
+    ],
+    "info": "35th match, ICC Cricket World Cup at Chester-le-Street, Jun 28 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

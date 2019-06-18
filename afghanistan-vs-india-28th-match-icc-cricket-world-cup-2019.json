@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Afghanistan",
+        "shortName": "Afghanistan",
+        "abbrev": "AFG",
+        "score": ""
+      },
+      {
+        "name": "India",
+        "shortName": "India",
+        "abbrev": "INDIA",
+        "score": ""
+      }
+    ],
+    "info": "28th match, ICC Cricket World Cup at Southampton, Jun 22 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

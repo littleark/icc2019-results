@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "England",
+        "shortName": "England",
+        "abbrev": "ENG",
+        "score": ""
+      },
+      {
+        "name": "Sri Lanka",
+        "shortName": "Sri Lanka",
+        "abbrev": "SL",
+        "score": ""
+      }
+    ],
+    "info": "27th match, ICC Cricket World Cup at Leeds, Jun 21 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

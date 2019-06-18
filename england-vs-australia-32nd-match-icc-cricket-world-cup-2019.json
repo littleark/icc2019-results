@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "England",
+        "shortName": "England",
+        "abbrev": "ENG",
+        "score": ""
+      },
+      {
+        "name": "Australia",
+        "shortName": "Australia",
+        "abbrev": "AUS",
+        "score": ""
+      }
+    ],
+    "info": "32nd match, ICC Cricket World Cup at London, Jun 25 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

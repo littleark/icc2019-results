@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "India",
+        "shortName": "India",
+        "abbrev": "INDIA",
+        "score": ""
+      },
+      {
+        "name": "West Indies",
+        "shortName": "West Indies",
+        "abbrev": "WI",
+        "score": ""
+      }
+    ],
+    "info": "34th match, ICC Cricket World Cup at Manchester, Jun 27 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

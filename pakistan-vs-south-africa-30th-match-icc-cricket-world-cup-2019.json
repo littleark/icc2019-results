@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Pakistan",
+        "shortName": "Pakistan",
+        "abbrev": "PAK",
+        "score": ""
+      },
+      {
+        "name": "South Africa",
+        "shortName": "South Africa",
+        "abbrev": "SA",
+        "score": ""
+      }
+    ],
+    "info": "30th match, ICC Cricket World Cup at London, Jun 23 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

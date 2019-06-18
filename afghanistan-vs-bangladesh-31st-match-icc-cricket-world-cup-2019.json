@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Afghanistan",
+        "shortName": "Afghanistan",
+        "abbrev": "AFG",
+        "score": ""
+      },
+      {
+        "name": "Bangladesh",
+        "shortName": "Bangladesh",
+        "abbrev": "BDESH",
+        "score": ""
+      }
+    ],
+    "info": "31st match, ICC Cricket World Cup at Southampton, Jun 24 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "New Zealand",
+        "shortName": "New Zealand",
+        "abbrev": "NZ",
+        "score": ""
+      },
+      {
+        "name": "Pakistan",
+        "shortName": "Pakistan",
+        "abbrev": "PAK",
+        "score": ""
+      }
+    ],
+    "info": "33rd match, ICC Cricket World Cup at Birmingham, Jun 26 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

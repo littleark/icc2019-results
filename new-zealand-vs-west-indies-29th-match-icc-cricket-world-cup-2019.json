@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "New Zealand",
+        "shortName": "New Zealand",
+        "abbrev": "NZ",
+        "score": ""
+      },
+      {
+        "name": "West Indies",
+        "shortName": "West Indies",
+        "abbrev": "WI",
+        "score": ""
+      }
+    ],
+    "info": "29th match (D/N), ICC Cricket World Cup at Manchester, Jun 22 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}
