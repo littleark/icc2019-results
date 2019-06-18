@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Bangladesh",
+        "shortName": "Bangladesh",
+        "abbrev": "BDESH",
+        "score": ""
+      },
+      {
+        "name": "India",
+        "shortName": "India",
+        "abbrev": "INDIA",
+        "score": ""
+      }
+    ],
+    "info": "40th match, ICC Cricket World Cup at Birmingham, Jul 2 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

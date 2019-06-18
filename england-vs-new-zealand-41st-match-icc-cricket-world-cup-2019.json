@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "England",
+        "shortName": "England",
+        "abbrev": "ENG",
+        "score": ""
+      },
+      {
+        "name": "New Zealand",
+        "shortName": "New Zealand",
+        "abbrev": "NZ",
+        "score": ""
+      }
+    ],
+    "info": "41st match, ICC Cricket World Cup at Chester-le-Street, Jul 3 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

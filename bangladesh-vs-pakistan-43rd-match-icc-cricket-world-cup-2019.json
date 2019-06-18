@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Bangladesh",
+        "shortName": "Bangladesh",
+        "abbrev": "BDESH",
+        "score": ""
+      },
+      {
+        "name": "Pakistan",
+        "shortName": "Pakistan",
+        "abbrev": "PAK",
+        "score": ""
+      }
+    ],
+    "info": "43rd match, ICC Cricket World Cup at London, Jul 5 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

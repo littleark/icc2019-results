@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Australia",
+        "shortName": "Australia",
+        "abbrev": "AUS",
+        "score": ""
+      },
+      {
+        "name": "South Africa",
+        "shortName": "South Africa",
+        "abbrev": "SA",
+        "score": ""
+      }
+    ],
+    "info": "45th match (D/N), ICC Cricket World Cup at Manchester, Jul 6 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

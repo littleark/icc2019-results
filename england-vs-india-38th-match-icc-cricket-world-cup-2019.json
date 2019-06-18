@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "England",
+        "shortName": "England",
+        "abbrev": "ENG",
+        "score": ""
+      },
+      {
+        "name": "India",
+        "shortName": "India",
+        "abbrev": "INDIA",
+        "score": ""
+      }
+    ],
+    "info": "38th match, ICC Cricket World Cup at Birmingham, Jun 30 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

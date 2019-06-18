@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Australia",
+        "shortName": "Australia",
+        "abbrev": "AUS",
+        "score": ""
+      },
+      {
+        "name": "New Zealand",
+        "shortName": "New Zealand",
+        "abbrev": "NZ",
+        "score": ""
+      }
+    ],
+    "info": "37th match (D/N), ICC Cricket World Cup at London, Jun 29 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Sri Lanka",
+        "shortName": "Sri Lanka",
+        "abbrev": "SL",
+        "score": ""
+      },
+      {
+        "name": "West Indies",
+        "shortName": "West Indies",
+        "abbrev": "WI",
+        "score": ""
+      }
+    ],
+    "info": "39th match, ICC Cricket World Cup at Chester-le-Street, Jul 1 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

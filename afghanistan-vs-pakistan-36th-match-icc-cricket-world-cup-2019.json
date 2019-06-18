@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Afghanistan",
+        "shortName": "Afghanistan",
+        "abbrev": "AFG",
+        "score": ""
+      },
+      {
+        "name": "Pakistan",
+        "shortName": "Pakistan",
+        "abbrev": "PAK",
+        "score": ""
+      }
+    ],
+    "info": "36th match, ICC Cricket World Cup at Leeds, Jun 29 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

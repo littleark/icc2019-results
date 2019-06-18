@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "Afghanistan",
+        "shortName": "Afghanistan",
+        "abbrev": "AFG",
+        "score": ""
+      },
+      {
+        "name": "West Indies",
+        "shortName": "West Indies",
+        "abbrev": "WI",
+        "score": ""
+      }
+    ],
+    "info": "42nd match, ICC Cricket World Cup at Leeds, Jul 4 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}
