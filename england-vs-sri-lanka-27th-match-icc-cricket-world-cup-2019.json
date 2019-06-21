@@ -2,20 +2,498 @@
   "result": {
     "teams": [
       {
-        "name": "England",
-        "shortName": "England",
-        "abbrev": "ENG",
-        "score": ""
-      },
-      {
         "name": "Sri Lanka",
         "shortName": "Sri Lanka",
         "abbrev": "SL",
-        "score": ""
+        "score": "232/9"
+      },
+      {
+        "name": "England",
+        "shortName": "England",
+        "abbrev": "ENG",
+        "score": "212 (47/50 ov, target 233)"
       }
     ],
     "info": "27th match, ICC Cricket World Cup at Leeds, Jun 21 2019",
-    "scoreNotes": "TBP"
+    "scoreNotes": "Sri Lanka won by 20 runs"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "FDM Karunaratne (c)",
+          "commentary": "c †Buttler b Archer",
+          "r": "1",
+          "b": "8",
+          "m": "9",
+          "4s": "0",
+          "6s": "0",
+          "sr": "12.50",
+          "wicket": {
+            "over": "1.6",
+            "score": "3/1"
+          }
+        },
+        {
+          "name": "MDKJ Perera †",
+          "commentary": "c Ali b Woakes",
+          "r": "2",
+          "b": "6",
+          "m": "12",
+          "4s": "0",
+          "6s": "0",
+          "sr": "33.33",
+          "wicket": {
+            "over": "2.2",
+            "score": "3/2"
+          }
+        },
+        {
+          "name": "WIA Fernando",
+          "commentary": "c Rashid b Wood",
+          "r": "49",
+          "b": "39",
+          "m": "50",
+          "4s": "6",
+          "6s": "2",
+          "sr": "125.64",
+          "wicket": {
+            "over": "12.5",
+            "score": "62/3"
+          }
+        },
+        {
+          "name": "BKG Mendis",
+          "commentary": "c Morgan b Rashid",
+          "r": "46",
+          "b": "68",
+          "m": "110",
+          "4s": "2",
+          "6s": "0",
+          "sr": "67.64",
+          "wicket": {
+            "over": "29.4",
+            "score": "133/4"
+          }
+        },
+        {
+          "name": "AD Mathews",
+          "commentary": "not out",
+          "r": "85",
+          "b": "115",
+          "m": "146",
+          "4s": "5",
+          "6s": "1",
+          "sr": "73.91"
+        },
+        {
+          "name": "BMAJ Mendis",
+          "commentary": "c & b Rashid",
+          "r": "0",
+          "b": "1",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "29.5",
+            "score": "133/5"
+          }
+        },
+        {
+          "name": "DM de Silva",
+          "commentary": "c Root b Archer",
+          "r": "29",
+          "b": "47",
+          "m": "48",
+          "4s": "1",
+          "6s": "0",
+          "sr": "61.70",
+          "wicket": {
+            "over": "43.3",
+            "score": "190/6"
+          }
+        },
+        {
+          "name": "NLTC Perera",
+          "commentary": "c Rashid b Archer",
+          "r": "2",
+          "b": "6",
+          "m": "12",
+          "4s": "0",
+          "6s": "0",
+          "sr": "33.33",
+          "wicket": {
+            "over": "45.4",
+            "score": "200/7"
+          }
+        },
+        {
+          "name": "I Udana",
+          "commentary": "c Root b Wood",
+          "r": "6",
+          "b": "4",
+          "m": "7",
+          "4s": "1",
+          "6s": "0",
+          "sr": "150.00",
+          "wicket": {
+            "over": "46.4",
+            "score": "209/8"
+          }
+        },
+        {
+          "name": "SL Malinga",
+          "commentary": " b Wood",
+          "r": "1",
+          "b": "5",
+          "m": "9",
+          "4s": "0",
+          "6s": "0",
+          "sr": "20.00",
+          "wicket": {
+            "over": "48.3",
+            "score": "220/9"
+          }
+        },
+        {
+          "name": "N Pradeep",
+          "commentary": "not out",
+          "r": "1",
+          "b": "1",
+          "m": "8",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "CR Woakes",
+          "overs": "5",
+          "maiden": "0",
+          "runs": "22",
+          "wickets": "1",
+          "econ": "4.40",
+          "0s": "17",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "JC Archer",
+          "overs": "10",
+          "maiden": "2",
+          "runs": "52",
+          "wickets": "3",
+          "econ": "5.20",
+          "0s": "38",
+          "4s": "4",
+          "6s": "3",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "MA Wood",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "40",
+          "wickets": "3",
+          "econ": "5.00",
+          "0s": "23",
+          "4s": "3",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "BA Stokes",
+          "overs": "5",
+          "maiden": "0",
+          "runs": "16",
+          "wickets": "0",
+          "econ": "3.20",
+          "0s": "20",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "MM Ali",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "40",
+          "wickets": "0",
+          "econ": "4.00",
+          "0s": "28",
+          "4s": "0",
+          "6s": "0",
+          "wd": "3",
+          "nb": "0"
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "45",
+          "wickets": "2",
+          "econ": "4.50",
+          "0s": "27",
+          "4s": "3",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "JE Root",
+          "overs": "2",
+          "maiden": "0",
+          "runs": "13",
+          "wickets": "0",
+          "econ": "6.50",
+          "0s": "3",
+          "4s": "1",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "JM Vince",
+          "commentary": "c BKG Mendis b Malinga",
+          "r": "14",
+          "b": "18",
+          "m": "33",
+          "4s": "2",
+          "6s": "0",
+          "sr": "77.77",
+          "wicket": {
+            "over": "6.5",
+            "score": "26/2"
+          }
+        },
+        {
+          "name": "JM Bairstow",
+          "commentary": "lbw b Malinga",
+          "r": "0",
+          "b": "1",
+          "m": "3",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "0.2",
+            "score": "1/1"
+          }
+        },
+        {
+          "name": "JE Root",
+          "commentary": "c †MDKJ Perera b Malinga",
+          "r": "57",
+          "b": "89",
+          "m": "126",
+          "4s": "3",
+          "6s": "0",
+          "sr": "64.04",
+          "wicket": {
+            "over": "30.3",
+            "score": "127/4"
+          }
+        },
+        {
+          "name": "EJG Morgan (c)",
+          "commentary": "c & b Udana",
+          "r": "21",
+          "b": "35",
+          "m": "51",
+          "4s": "2",
+          "6s": "0",
+          "sr": "60.00",
+          "wicket": {
+            "over": "18.4",
+            "score": "73/3"
+          }
+        },
+        {
+          "name": "BA Stokes",
+          "commentary": "not out",
+          "r": "82",
+          "b": "89",
+          "m": "135",
+          "4s": "7",
+          "6s": "4",
+          "sr": "92.13"
+        },
+        {
+          "name": "JC Buttler †",
+          "commentary": "lbw b Malinga",
+          "r": "10",
+          "b": "9",
+          "m": "16",
+          "4s": "1",
+          "6s": "0",
+          "sr": "111.11",
+          "wicket": {
+            "over": "32.3",
+            "score": "144/5"
+          }
+        },
+        {
+          "name": "MM Ali",
+          "commentary": "c Udana b de Silva",
+          "r": "16",
+          "b": "20",
+          "m": "25",
+          "4s": "0",
+          "6s": "1",
+          "sr": "80.00",
+          "wicket": {
+            "over": "38.3",
+            "score": "170/6"
+          }
+        },
+        {
+          "name": "CR Woakes",
+          "commentary": "c †MDKJ Perera b de Silva",
+          "r": "2",
+          "b": "4",
+          "m": "8",
+          "4s": "0",
+          "6s": "0",
+          "sr": "50.00",
+          "wicket": {
+            "over": "40.1",
+            "score": "176/7"
+          }
+        },
+        {
+          "name": "AU Rashid",
+          "commentary": "c †MDKJ Perera b de Silva",
+          "r": "1",
+          "b": "2",
+          "m": "3",
+          "4s": "0",
+          "6s": "0",
+          "sr": "50.00",
+          "wicket": {
+            "over": "40.5",
+            "score": "178/8"
+          }
+        },
+        {
+          "name": "JC Archer",
+          "commentary": "c NLTC Perera b Udana",
+          "r": "3",
+          "b": "11",
+          "m": "18",
+          "4s": "0",
+          "6s": "0",
+          "sr": "27.27",
+          "wicket": {
+            "over": "43.4",
+            "score": "186/9"
+          }
+        },
+        {
+          "name": "MA Wood",
+          "commentary": "c †MDKJ Perera b Pradeep",
+          "r": "0",
+          "b": "4",
+          "m": "19",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "46.6",
+            "score": "212/10"
+          }
+        }
+      ],
+      "bowling": [
+        {
+          "name": "SL Malinga",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "43",
+          "wickets": "4",
+          "econ": "4.30",
+          "0s": "39",
+          "4s": "5",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "N Pradeep",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "38",
+          "wickets": "1",
+          "econ": "3.80",
+          "0s": "40",
+          "4s": "5",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "DM de Silva",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "32",
+          "wickets": "3",
+          "econ": "4.00",
+          "0s": "24",
+          "4s": "0",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "NLTC Perera",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "34",
+          "wickets": "0",
+          "econ": "4.25",
+          "0s": "23",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "I Udana",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "41",
+          "wickets": "2",
+          "econ": "5.12",
+          "0s": "28",
+          "4s": "3",
+          "6s": "2",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "BMAJ Mendis",
+          "overs": "3",
+          "maiden": "0",
+          "runs": "23",
+          "wickets": "0",
+          "econ": "7.66",
+          "0s": "5",
+          "4s": "0",
+          "6s": "2",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }
