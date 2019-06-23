@@ -2,20 +2,458 @@
   "result": {
     "teams": [
       {
-        "name": "Afghanistan",
-        "shortName": "Afghanistan",
-        "abbrev": "AFG",
-        "score": ""
-      },
-      {
         "name": "India",
         "shortName": "India",
         "abbrev": "INDIA",
-        "score": ""
+        "score": "224/8"
+      },
+      {
+        "name": "Afghanistan",
+        "shortName": "Afghanistan",
+        "abbrev": "AFG",
+        "score": "213 (49.5/50 ov)"
       }
     ],
     "info": "28th match, ICC Cricket World Cup at Southampton, Jun 22 2019",
-    "scoreNotes": "TBP"
+    "scoreNotes": "India won by 11 runs"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "KL Rahul",
+          "commentary": "c Hazratullah Zazai b Mohammad Nabi",
+          "r": "30",
+          "b": "53",
+          "m": "56",
+          "4s": "2",
+          "6s": "0",
+          "sr": "56.60",
+          "wicket": {
+            "over": "14.2",
+            "score": "64/2"
+          }
+        },
+        {
+          "name": "RG Sharma",
+          "commentary": " b Mujeeb Ur Rahman",
+          "r": "1",
+          "b": "10",
+          "m": "60",
+          "4s": "0",
+          "6s": "0",
+          "sr": "10.00",
+          "wicket": {
+            "over": "4.2",
+            "score": "7/1"
+          }
+        },
+        {
+          "name": "V Kohli (c)",
+          "commentary": "c Rahmat Shah b Mohammad Nabi",
+          "r": "67",
+          "b": "63",
+          "m": "105",
+          "4s": "5",
+          "6s": "0",
+          "sr": "106.34",
+          "wicket": {
+            "over": "30.3",
+            "score": "135/4"
+          }
+        },
+        {
+          "name": "V Shankar",
+          "commentary": "lbw b Rahmat Shah",
+          "r": "29",
+          "b": "41",
+          "m": "49",
+          "4s": "2",
+          "6s": "0",
+          "sr": "70.73",
+          "wicket": {
+            "over": "26.1",
+            "score": "122/3"
+          }
+        },
+        {
+          "name": "MS Dhoni †",
+          "commentary": "st †Ikram Alikhil b Rashid Khan",
+          "r": "28",
+          "b": "52",
+          "m": "75",
+          "4s": "3",
+          "6s": "0",
+          "sr": "53.84",
+          "wicket": {
+            "over": "44.3",
+            "score": "192/5"
+          }
+        },
+        {
+          "name": "KM Jadhav",
+          "commentary": "c sub (Noor Ali Zadran) b Gulbadin Naib",
+          "r": "52",
+          "b": "68",
+          "m": "88",
+          "4s": "3",
+          "6s": "1",
+          "sr": "76.47",
+          "wicket": {
+            "over": "49.5",
+            "score": "223/8"
+          }
+        },
+        {
+          "name": "HH Pandya",
+          "commentary": "c †Ikram Alikhil b Aftab Alam",
+          "r": "7",
+          "b": "9",
+          "m": "23",
+          "4s": "0",
+          "6s": "0",
+          "sr": "77.77",
+          "wicket": {
+            "over": "48.4",
+            "score": "217/6"
+          }
+        },
+        {
+          "name": "Mohammed Shami",
+          "commentary": " b Gulbadin Naib",
+          "r": "1",
+          "b": "2",
+          "m": "7",
+          "4s": "0",
+          "6s": "0",
+          "sr": "50.00",
+          "wicket": {
+            "over": "49.3",
+            "score": "222/7"
+          }
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "commentary": "not out",
+          "r": "1",
+          "b": "1",
+          "m": "4",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00"
+        },
+        {
+          "name": "JJ Bumrah",
+          "commentary": "not out",
+          "r": "1",
+          "b": "1",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mujeeb Ur Rahman",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "26",
+          "wickets": "1",
+          "econ": "2.60",
+          "0s": "38",
+          "4s": "1",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "Aftab Alam",
+          "overs": "7",
+          "maiden": "1",
+          "runs": "54",
+          "wickets": "1",
+          "econ": "7.71",
+          "0s": "19",
+          "4s": "7",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "Gulbadin Naib",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "51",
+          "wickets": "2",
+          "econ": "5.66",
+          "0s": "20",
+          "4s": "2",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "Mohammad Nabi",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "33",
+          "wickets": "2",
+          "econ": "3.66",
+          "0s": "23",
+          "4s": "0",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "Rashid Khan",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "38",
+          "wickets": "1",
+          "econ": "3.80",
+          "0s": "36",
+          "4s": "3",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "Rahmat Shah",
+          "overs": "5",
+          "maiden": "0",
+          "runs": "22",
+          "wickets": "1",
+          "econ": "4.40",
+          "0s": "16",
+          "4s": "2",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "Hazratullah Zazai",
+          "commentary": " b Mohammed Shami",
+          "r": "10",
+          "b": "24",
+          "m": "32",
+          "4s": "1",
+          "6s": "0",
+          "sr": "41.66",
+          "wicket": {
+            "over": "6.3",
+            "score": "20/1"
+          }
+        },
+        {
+          "name": "Gulbadin Naib (c)",
+          "commentary": "c Shankar b Pandya",
+          "r": "27",
+          "b": "42",
+          "m": "78",
+          "4s": "2",
+          "6s": "0",
+          "sr": "64.28",
+          "wicket": {
+            "over": "16.5",
+            "score": "64/2"
+          }
+        },
+        {
+          "name": "Rahmat Shah",
+          "commentary": "c Chahal b Bumrah",
+          "r": "36",
+          "b": "63",
+          "m": "94",
+          "4s": "3",
+          "6s": "0",
+          "sr": "57.14",
+          "wicket": {
+            "over": "28.4",
+            "score": "106/3"
+          }
+        },
+        {
+          "name": "Hashmatullah Shahidi",
+          "commentary": "c & b Bumrah",
+          "r": "21",
+          "b": "45",
+          "m": "53",
+          "4s": "2",
+          "6s": "0",
+          "sr": "46.66",
+          "wicket": {
+            "over": "28.6",
+            "score": "106/4"
+          }
+        },
+        {
+          "name": "Asghar Afghan",
+          "commentary": " b Chahal",
+          "r": "8",
+          "b": "19",
+          "m": "33",
+          "4s": "0",
+          "6s": "0",
+          "sr": "42.10",
+          "wicket": {
+            "over": "34.6",
+            "score": "130/5"
+          }
+        },
+        {
+          "name": "Mohammad Nabi",
+          "commentary": "c Pandya b Mohammed Shami",
+          "r": "52",
+          "b": "55",
+          "m": "105",
+          "4s": "4",
+          "6s": "1",
+          "sr": "94.54",
+          "wicket": {
+            "over": "49.3",
+            "score": "213/8"
+          }
+        },
+        {
+          "name": "Najibullah Zadran",
+          "commentary": "c Chahal b Pandya",
+          "r": "21",
+          "b": "23",
+          "m": "32",
+          "4s": "2",
+          "6s": "0",
+          "sr": "91.30",
+          "wicket": {
+            "over": "41.3",
+            "score": "166/6"
+          }
+        },
+        {
+          "name": "Rashid Khan",
+          "commentary": "st †Dhoni b Chahal",
+          "r": "14",
+          "b": "16",
+          "m": "20",
+          "4s": "1",
+          "6s": "0",
+          "sr": "87.50",
+          "wicket": {
+            "over": "45.4",
+            "score": "190/7"
+          }
+        },
+        {
+          "name": "Ikram Alikhil †",
+          "commentary": "not out",
+          "r": "7",
+          "b": "10",
+          "m": "28",
+          "4s": "0",
+          "6s": "0",
+          "sr": "70.00"
+        },
+        {
+          "name": "Aftab Alam",
+          "commentary": " b Mohammed Shami",
+          "r": "0",
+          "b": "1",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "49.4",
+            "score": "213/9"
+          }
+        },
+        {
+          "name": "Mujeeb Ur Rahman",
+          "commentary": " b Mohammed Shami",
+          "r": "0",
+          "b": "1",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "49.5",
+            "score": "213/10"
+          }
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mohammed Shami",
+          "overs": "9.5",
+          "maiden": "1",
+          "runs": "40",
+          "wickets": "4",
+          "econ": "4.06",
+          "0s": "38",
+          "4s": "4",
+          "6s": "0",
+          "wd": "3",
+          "nb": "0"
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "39",
+          "wickets": "2",
+          "econ": "3.90",
+          "0s": "37",
+          "4s": "1",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "YS Chahal",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "36",
+          "wickets": "2",
+          "econ": "3.60",
+          "0s": "41",
+          "4s": "5",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "HH Pandya",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "51",
+          "wickets": "2",
+          "econ": "5.10",
+          "0s": "32",
+          "4s": "3",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "39",
+          "wickets": "0",
+          "econ": "3.90",
+          "0s": "30",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }

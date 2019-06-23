@@ -5,17 +5,471 @@
         "name": "New Zealand",
         "shortName": "New Zealand",
         "abbrev": "NZ",
-        "score": ""
+        "score": "291/8"
       },
       {
         "name": "West Indies",
         "shortName": "West Indies",
         "abbrev": "WI",
-        "score": ""
+        "score": "286 (49/50 ov)"
       }
     ],
     "info": "29th match (D/N), ICC Cricket World Cup at Manchester, Jun 22 2019",
-    "scoreNotes": "TBP"
+    "scoreNotes": "New Zealand won by 5 runs"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "MJ Guptill",
+          "commentary": "lbw b Cottrell",
+          "r": "0",
+          "b": "1",
+          "m": "3",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "0.1",
+            "score": "0/1"
+          }
+        },
+        {
+          "name": "C Munro",
+          "commentary": " b Cottrell",
+          "r": "0",
+          "b": "1",
+          "m": "10",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "0.5",
+            "score": "7/2"
+          }
+        },
+        {
+          "name": "KS Williamson (c)",
+          "commentary": "c †Hope b Cottrell",
+          "r": "148",
+          "b": "154",
+          "m": "212",
+          "4s": "14",
+          "6s": "1",
+          "sr": "96.10",
+          "wicket": {
+            "over": "46.3",
+            "score": "251/5"
+          }
+        },
+        {
+          "name": "LRPL Taylor",
+          "commentary": "c Holder b Gayle",
+          "r": "69",
+          "b": "95",
+          "m": "148",
+          "4s": "7",
+          "6s": "0",
+          "sr": "72.63",
+          "wicket": {
+            "over": "34.3",
+            "score": "167/3"
+          }
+        },
+        {
+          "name": "TWM Latham †",
+          "commentary": "c & b Cottrell",
+          "r": "12",
+          "b": "16",
+          "m": "35",
+          "4s": "0",
+          "6s": "0",
+          "sr": "75.00",
+          "wicket": {
+            "over": "41.5",
+            "score": "210/4"
+          }
+        },
+        {
+          "name": "JDS Neesham",
+          "commentary": "c Cottrell b Brathwaite",
+          "r": "28",
+          "b": "23",
+          "m": "43",
+          "4s": "1",
+          "6s": "1",
+          "sr": "121.73",
+          "wicket": {
+            "over": "49.6",
+            "score": "291/8"
+          }
+        },
+        {
+          "name": "C de Grandhomme",
+          "commentary": "run out (Cottrell)",
+          "r": "16",
+          "b": "6",
+          "m": "11",
+          "4s": "1",
+          "6s": "1",
+          "sr": "266.66",
+          "wicket": {
+            "over": "48.1",
+            "score": "270/6"
+          }
+        },
+        {
+          "name": "MJ Santner",
+          "commentary": "c Cottrell b Brathwaite",
+          "r": "10",
+          "b": "5",
+          "m": "8",
+          "4s": "0",
+          "6s": "1",
+          "sr": "200.00",
+          "wicket": {
+            "over": "49.5",
+            "score": "291/7"
+          }
+        },
+        {
+          "name": "MJ Henry",
+          "commentary": "not out",
+          "r": "0",
+          "b": "0",
+          "m": "1",
+          "4s": "0",
+          "6s": "0",
+          "sr": "-"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "SS Cottrell",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "56",
+          "wickets": "4",
+          "econ": "5.60",
+          "0s": "30",
+          "4s": "3",
+          "6s": "1",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "KAJ Roach",
+          "overs": "10",
+          "maiden": "2",
+          "runs": "38",
+          "wickets": "0",
+          "econ": "3.80",
+          "0s": "41",
+          "4s": "5",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "JO Holder",
+          "overs": "7",
+          "maiden": "0",
+          "runs": "42",
+          "wickets": "0",
+          "econ": "6.00",
+          "0s": "17",
+          "4s": "5",
+          "6s": "0",
+          "wd": "0",
+          "nb": "1"
+        },
+        {
+          "name": "O Thomas",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "30",
+          "wickets": "0",
+          "econ": "5.00",
+          "0s": "20",
+          "4s": "4",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "CR Brathwaite",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "58",
+          "wickets": "2",
+          "econ": "9.66",
+          "0s": "8",
+          "4s": "3",
+          "6s": "3",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "AR Nurse",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "55",
+          "wickets": "0",
+          "econ": "6.11",
+          "0s": "13",
+          "4s": "3",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "CH Gayle",
+          "overs": "2",
+          "maiden": "0",
+          "runs": "8",
+          "wickets": "1",
+          "econ": "4.00",
+          "0s": "5",
+          "4s": "0",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "CH Gayle",
+          "commentary": "c Boult b de Grandhomme",
+          "r": "87",
+          "b": "84",
+          "m": "111",
+          "4s": "8",
+          "6s": "6",
+          "sr": "103.57",
+          "wicket": {
+            "over": "23.6",
+            "score": "152/5"
+          }
+        },
+        {
+          "name": "SD Hope †",
+          "commentary": " b Boult",
+          "r": "1",
+          "b": "3",
+          "m": "12",
+          "4s": "0",
+          "6s": "0",
+          "sr": "33.33",
+          "wicket": {
+            "over": "2.4",
+            "score": "3/1"
+          }
+        },
+        {
+          "name": "N Pooran",
+          "commentary": "c †Latham b Boult",
+          "r": "1",
+          "b": "7",
+          "m": "17",
+          "4s": "0",
+          "6s": "0",
+          "sr": "14.28",
+          "wicket": {
+            "over": "6.2",
+            "score": "20/2"
+          }
+        },
+        {
+          "name": "SO Hetmyer",
+          "commentary": " b Ferguson",
+          "r": "54",
+          "b": "45",
+          "m": "72",
+          "4s": "8",
+          "6s": "1",
+          "sr": "120.00",
+          "wicket": {
+            "over": "22.1",
+            "score": "142/3"
+          }
+        },
+        {
+          "name": "JO Holder (c)",
+          "commentary": "c †Latham b Ferguson",
+          "r": "0",
+          "b": "1",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "22.2",
+            "score": "142/4"
+          }
+        },
+        {
+          "name": "CR Brathwaite",
+          "commentary": "c Boult b Neesham",
+          "r": "101",
+          "b": "82",
+          "m": "117",
+          "4s": "9",
+          "6s": "5",
+          "sr": "123.17",
+          "wicket": {
+            "over": "48.6",
+            "score": "286/10"
+          }
+        },
+        {
+          "name": "AR Nurse",
+          "commentary": "c †Latham b Boult",
+          "r": "1",
+          "b": "8",
+          "m": "9",
+          "4s": "0",
+          "6s": "0",
+          "sr": "12.50",
+          "wicket": {
+            "over": "26.2",
+            "score": "163/6"
+          }
+        },
+        {
+          "name": "E Lewis",
+          "commentary": "c Neesham b Boult",
+          "r": "0",
+          "b": "3",
+          "m": "4",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "26.5",
+            "score": "164/7"
+          }
+        },
+        {
+          "name": "KAJ Roach",
+          "commentary": "c †Latham b Henry",
+          "r": "14",
+          "b": "31",
+          "m": "44",
+          "4s": "0",
+          "6s": "1",
+          "sr": "45.16",
+          "wicket": {
+            "over": "38.1",
+            "score": "211/8"
+          }
+        },
+        {
+          "name": "SS Cottrell",
+          "commentary": " b Ferguson",
+          "r": "15",
+          "b": "26",
+          "m": "30",
+          "4s": "2",
+          "6s": "0",
+          "sr": "57.69",
+          "wicket": {
+            "over": "44.6",
+            "score": "245/9"
+          }
+        },
+        {
+          "name": "O Thomas",
+          "commentary": "not out",
+          "r": "0",
+          "b": "4",
+          "m": "24",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "TA Boult",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "30",
+          "wickets": "4",
+          "econ": "3.00",
+          "0s": "42",
+          "4s": "3",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "76",
+          "wickets": "1",
+          "econ": "8.44",
+          "0s": "29",
+          "4s": "6",
+          "6s": "6",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "LH Ferguson",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "59",
+          "wickets": "3",
+          "econ": "5.90",
+          "0s": "35",
+          "4s": "6",
+          "6s": "2",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "JDS Neesham",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "35",
+          "wickets": "1",
+          "econ": "5.83",
+          "0s": "21",
+          "4s": "6",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "61",
+          "wickets": "0",
+          "econ": "6.10",
+          "0s": "32",
+          "4s": "2",
+          "6s": "5",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "C de Grandhomme",
+          "overs": "4",
+          "maiden": "0",
+          "runs": "22",
+          "wickets": "1",
+          "econ": "5.50",
+          "0s": "15",
+          "4s": "4",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }
