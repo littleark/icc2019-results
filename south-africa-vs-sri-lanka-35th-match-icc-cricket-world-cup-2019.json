@@ -2,20 +2,373 @@
   "result": {
     "teams": [
       {
-        "name": "South Africa",
-        "shortName": "South Africa",
-        "abbrev": "SA",
-        "score": ""
-      },
-      {
         "name": "Sri Lanka",
         "shortName": "Sri Lanka",
         "abbrev": "SL",
-        "score": ""
+        "score": "203"
+      },
+      {
+        "name": "South Africa",
+        "shortName": "South Africa",
+        "abbrev": "SA",
+        "score": "206/1 (37.2/50 ov)"
       }
     ],
     "info": "35th match, ICC Cricket World Cup at Chester-le-Street, Jun 28 2019",
-    "scoreNotes": "TBP"
+    "scoreNotes": "South Africa won by 9 wickets (with 76 balls remaining)"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "FDM Karunaratne (c)",
+          "commentary": "c du Plessis b Rabada",
+          "r": "0",
+          "b": "1",
+          "m": "3",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "0.1",
+            "score": "0/1"
+          }
+        },
+        {
+          "name": "MDKJ Perera †",
+          "commentary": " b Pretorius",
+          "r": "30",
+          "b": "34",
+          "m": "58",
+          "4s": "4",
+          "6s": "0",
+          "sr": "88.23",
+          "wicket": {
+            "over": "11.3",
+            "score": "72/3"
+          }
+        },
+        {
+          "name": "WIA Fernando",
+          "commentary": "c du Plessis b Pretorius",
+          "r": "30",
+          "b": "29",
+          "m": "46",
+          "4s": "4",
+          "6s": "0",
+          "sr": "103.44",
+          "wicket": {
+            "over": "9.5",
+            "score": "67/2"
+          }
+        },
+        {
+          "name": "BKG Mendis",
+          "commentary": "c Morris b Pretorius",
+          "r": "23",
+          "b": "51",
+          "m": "75",
+          "4s": "2",
+          "6s": "0",
+          "sr": "45.09",
+          "wicket": {
+            "over": "27.1",
+            "score": "111/5"
+          }
+        },
+        {
+          "name": "AD Mathews",
+          "commentary": " b Morris",
+          "r": "11",
+          "b": "29",
+          "m": "48",
+          "4s": "1",
+          "6s": "0",
+          "sr": "37.93",
+          "wicket": {
+            "over": "21.5",
+            "score": "100/4"
+          }
+        },
+        {
+          "name": "DM de Silva",
+          "commentary": " b Duminy",
+          "r": "24",
+          "b": "41",
+          "m": "54",
+          "4s": "2",
+          "6s": "0",
+          "sr": "58.53",
+          "wicket": {
+            "over": "36.1",
+            "score": "135/6"
+          }
+        },
+        {
+          "name": "BMAJ Mendis",
+          "commentary": "c Pretorius b Morris",
+          "r": "18",
+          "b": "46",
+          "m": "54",
+          "4s": "1",
+          "6s": "1",
+          "sr": "39.13",
+          "wicket": {
+            "over": "39.5",
+            "score": "163/7"
+          }
+        },
+        {
+          "name": "NLTC Perera",
+          "commentary": "c Rabada b Phehlukwayo",
+          "r": "21",
+          "b": "25",
+          "m": "41",
+          "4s": "0",
+          "6s": "0",
+          "sr": "84.00",
+          "wicket": {
+            "over": "45.3",
+            "score": "184/8"
+          }
+        },
+        {
+          "name": "I Udana",
+          "commentary": "c & b Rabada",
+          "r": "17",
+          "b": "32",
+          "m": "40",
+          "4s": "1",
+          "6s": "0",
+          "sr": "53.12",
+          "wicket": {
+            "over": "48.3",
+            "score": "197/9"
+          }
+        },
+        {
+          "name": "RAS Lakmal",
+          "commentary": "not out",
+          "r": "5",
+          "b": "7",
+          "m": "23",
+          "4s": "0",
+          "6s": "0",
+          "sr": "71.42"
+        },
+        {
+          "name": "SL Malinga",
+          "commentary": "c du Plessis b Morris",
+          "r": "4",
+          "b": "2",
+          "m": "7",
+          "4s": "1",
+          "6s": "0",
+          "sr": "200.00",
+          "wicket": {
+            "over": "49.3",
+            "score": "203/10"
+          }
+        }
+      ],
+      "bowling": [
+        {
+          "name": "K Rabada",
+          "overs": "10",
+          "maiden": "2",
+          "runs": "36",
+          "wickets": "2",
+          "econ": "3.60",
+          "0s": "40",
+          "4s": "3",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "CH Morris",
+          "overs": "9.3",
+          "maiden": "0",
+          "runs": "46",
+          "wickets": "3",
+          "econ": "4.84",
+          "0s": "36",
+          "4s": "4",
+          "6s": "1",
+          "wd": "3",
+          "nb": "0"
+        },
+        {
+          "name": "D Pretorius",
+          "overs": "10",
+          "maiden": "2",
+          "runs": "25",
+          "wickets": "3",
+          "econ": "2.50",
+          "0s": "46",
+          "4s": "3",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "38",
+          "wickets": "1",
+          "econ": "4.75",
+          "0s": "24",
+          "4s": "3",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "36",
+          "wickets": "0",
+          "econ": "3.60",
+          "0s": "34",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "JP Duminy",
+          "overs": "2",
+          "maiden": "0",
+          "runs": "15",
+          "wickets": "1",
+          "econ": "7.50",
+          "0s": "7",
+          "4s": "1",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "Q de Kock †",
+          "commentary": " b Malinga",
+          "r": "15",
+          "b": "16",
+          "m": "16",
+          "4s": "3",
+          "6s": "0",
+          "sr": "93.75",
+          "wicket": {
+            "over": "4.5",
+            "score": "31/1"
+          }
+        },
+        {
+          "name": "HM Amla",
+          "commentary": "not out",
+          "r": "80",
+          "b": "105",
+          "m": "167",
+          "4s": "5",
+          "6s": "0",
+          "sr": "76.19"
+        },
+        {
+          "name": "F du Plessis (c)",
+          "commentary": "not out",
+          "r": "96",
+          "b": "103",
+          "m": "103",
+          "4s": "10",
+          "6s": "1",
+          "sr": "93.20"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "SL Malinga",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "47",
+          "wickets": "1",
+          "econ": "4.70",
+          "0s": "38",
+          "4s": "6",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "DM de Silva",
+          "overs": "4",
+          "maiden": "0",
+          "runs": "18",
+          "wickets": "0",
+          "econ": "4.50",
+          "0s": "14",
+          "4s": "2",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "RAS Lakmal",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "47",
+          "wickets": "0",
+          "econ": "7.83",
+          "0s": "15",
+          "4s": "4",
+          "6s": "1",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "NLTC Perera",
+          "overs": "5.2",
+          "maiden": "1",
+          "runs": "28",
+          "wickets": "0",
+          "econ": "5.25",
+          "0s": "15",
+          "4s": "3",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "BMAJ Mendis",
+          "overs": "7",
+          "maiden": "0",
+          "runs": "36",
+          "wickets": "0",
+          "econ": "5.14",
+          "0s": "16",
+          "4s": "1",
+          "6s": "0",
+          "wd": "3",
+          "nb": "0"
+        },
+        {
+          "name": "I Udana",
+          "overs": "5",
+          "maiden": "0",
+          "runs": "29",
+          "wickets": "0",
+          "econ": "5.80",
+          "0s": "11",
+          "4s": "2",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }

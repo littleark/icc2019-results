@@ -5,17 +5,450 @@
         "name": "Pakistan",
         "shortName": "Pakistan",
         "abbrev": "PAK",
-        "score": ""
+        "score": "308/7"
       },
       {
         "name": "South Africa",
         "shortName": "South Africa",
         "abbrev": "SA",
-        "score": ""
+        "score": "259/9 (50 ov)"
       }
     ],
-    "info": "30th match, ICC Cricket World Cup at London, Jun 23 2019",
-    "scoreNotes": "TBP"
+    "info": "30th match, ICC Cricket World Cup at Lord's, Jun 23 2019",
+    "scoreNotes": "Pakistan won by 49 runs"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "Imam-ul-Haq",
+          "commentary": "c & b Imran Tahir",
+          "r": "44",
+          "b": "58",
+          "m": "71",
+          "4s": "6",
+          "6s": "0",
+          "sr": "75.86",
+          "wicket": {
+            "over": "20.3",
+            "score": "98/2"
+          }
+        },
+        {
+          "name": "Fakhar Zaman",
+          "commentary": "c Amla b Imran Tahir",
+          "r": "44",
+          "b": "50",
+          "m": "94",
+          "4s": "6",
+          "6s": "1",
+          "sr": "88.00",
+          "wicket": {
+            "over": "14.5",
+            "score": "81/1"
+          }
+        },
+        {
+          "name": "Babar Azam",
+          "commentary": "c Ngidi b Phehlukwayo",
+          "r": "69",
+          "b": "80",
+          "m": "113",
+          "4s": "7",
+          "6s": "0",
+          "sr": "86.25",
+          "wicket": {
+            "over": "41.2",
+            "score": "224/4"
+          }
+        },
+        {
+          "name": "Mohammad Hafeez",
+          "commentary": "lbw b Markram",
+          "r": "20",
+          "b": "33",
+          "m": "38",
+          "4s": "0",
+          "6s": "1",
+          "sr": "60.60",
+          "wicket": {
+            "over": "29.6",
+            "score": "143/3"
+          }
+        },
+        {
+          "name": "Haris Sohail",
+          "commentary": "c †de Kock b Ngidi",
+          "r": "89",
+          "b": "59",
+          "m": "95",
+          "4s": "9",
+          "6s": "3",
+          "sr": "150.84",
+          "wicket": {
+            "over": "49.5",
+            "score": "307/7"
+          }
+        },
+        {
+          "name": "Imad Wasim",
+          "commentary": "c sub (JP Duminy) b Ngidi",
+          "r": "23",
+          "b": "15",
+          "m": "33",
+          "4s": "3",
+          "6s": "0",
+          "sr": "153.33",
+          "wicket": {
+            "over": "47.6",
+            "score": "295/5"
+          }
+        },
+        {
+          "name": "Wahab Riaz",
+          "commentary": " b Ngidi",
+          "r": "4",
+          "b": "4",
+          "m": "7",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00",
+          "wicket": {
+            "over": "49.1",
+            "score": "304/6"
+          }
+        },
+        {
+          "name": "Sarfaraz Ahmed (c) †",
+          "commentary": "not out",
+          "r": "2",
+          "b": "2",
+          "m": "6",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00"
+        },
+        {
+          "name": "Shadab Khan",
+          "commentary": "not out",
+          "r": "1",
+          "b": "1",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "K Rabada",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "65",
+          "wickets": "0",
+          "econ": "6.50",
+          "0s": "30",
+          "4s": "8",
+          "6s": "1",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "L Ngidi",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "64",
+          "wickets": "3",
+          "econ": "7.11",
+          "0s": "26",
+          "4s": "7",
+          "6s": "2",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "CH Morris",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "61",
+          "wickets": "0",
+          "econ": "6.77",
+          "0s": "24",
+          "4s": "9",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "49",
+          "wickets": "1",
+          "econ": "6.12",
+          "0s": "24",
+          "4s": "4",
+          "6s": "1",
+          "wd": "2",
+          "nb": "1"
+        },
+        {
+          "name": "Imran Tahir",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "41",
+          "wickets": "2",
+          "econ": "4.10",
+          "0s": "33",
+          "4s": "2",
+          "6s": "1",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "AK Markram",
+          "overs": "4",
+          "maiden": "0",
+          "runs": "22",
+          "wickets": "1",
+          "econ": "5.50",
+          "0s": "10",
+          "4s": "1",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "HM Amla",
+          "commentary": "lbw b Mohammad Amir",
+          "r": "2",
+          "b": "3",
+          "m": "7",
+          "4s": "0",
+          "6s": "0",
+          "sr": "66.66",
+          "wicket": {
+            "over": "1.1",
+            "score": "4/1"
+          }
+        },
+        {
+          "name": "Q de Kock †",
+          "commentary": "c Imam-ul-Haq b Shadab Khan",
+          "r": "47",
+          "b": "60",
+          "m": "83",
+          "4s": "3",
+          "6s": "2",
+          "sr": "78.33",
+          "wicket": {
+            "over": "19.2",
+            "score": "91/2"
+          }
+        },
+        {
+          "name": "F du Plessis (c)",
+          "commentary": "c †Sarfaraz Ahmed b Mohammad Amir",
+          "r": "63",
+          "b": "79",
+          "m": "112",
+          "4s": "5",
+          "6s": "0",
+          "sr": "79.74",
+          "wicket": {
+            "over": "29.3",
+            "score": "136/4"
+          }
+        },
+        {
+          "name": "AK Markram",
+          "commentary": " b Shadab Khan",
+          "r": "7",
+          "b": "16",
+          "m": "13",
+          "4s": "0",
+          "6s": "0",
+          "sr": "43.75",
+          "wicket": {
+            "over": "23.1",
+            "score": "103/3"
+          }
+        },
+        {
+          "name": "HE van der Dussen",
+          "commentary": "c Mohammad Hafeez b Shadab Khan",
+          "r": "36",
+          "b": "47",
+          "m": "71",
+          "4s": "1",
+          "6s": "1",
+          "sr": "76.59",
+          "wicket": {
+            "over": "39.4",
+            "score": "189/5"
+          }
+        },
+        {
+          "name": "DA Miller",
+          "commentary": " b Shaheen Shah Afridi",
+          "r": "31",
+          "b": "37",
+          "m": "54",
+          "4s": "3",
+          "6s": "0",
+          "sr": "83.78",
+          "wicket": {
+            "over": "40.5",
+            "score": "192/6"
+          }
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "commentary": "not out",
+          "r": "46",
+          "b": "32",
+          "m": "50",
+          "4s": "6",
+          "6s": "0",
+          "sr": "143.75"
+        },
+        {
+          "name": "CH Morris",
+          "commentary": " b Wahab Riaz",
+          "r": "16",
+          "b": "10",
+          "m": "16",
+          "4s": "1",
+          "6s": "1",
+          "sr": "160.00",
+          "wicket": {
+            "over": "44.2",
+            "score": "222/7"
+          }
+        },
+        {
+          "name": "K Rabada",
+          "commentary": " b Wahab Riaz",
+          "r": "3",
+          "b": "7",
+          "m": "13",
+          "4s": "0",
+          "6s": "0",
+          "sr": "42.85",
+          "wicket": {
+            "over": "46.5",
+            "score": "239/8"
+          }
+        },
+        {
+          "name": "L Ngidi",
+          "commentary": " b Wahab Riaz",
+          "r": "1",
+          "b": "6",
+          "m": "9",
+          "4s": "0",
+          "6s": "0",
+          "sr": "16.66",
+          "wicket": {
+            "over": "48.2",
+            "score": "246/9"
+          }
+        },
+        {
+          "name": "Imran Tahir",
+          "commentary": "not out",
+          "r": "1",
+          "b": "3",
+          "m": "8",
+          "4s": "0",
+          "6s": "0",
+          "sr": "33.33"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mohammad Hafeez",
+          "overs": "2",
+          "maiden": "0",
+          "runs": "11",
+          "wickets": "0",
+          "econ": "5.50",
+          "0s": "4",
+          "4s": "0",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "Mohammad Amir",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "49",
+          "wickets": "2",
+          "econ": "4.90",
+          "0s": "32",
+          "4s": "4",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "Shaheen Shah Afridi",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "54",
+          "wickets": "1",
+          "econ": "6.75",
+          "0s": "23",
+          "4s": "6",
+          "6s": "2",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "Imad Wasim",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "48",
+          "wickets": "0",
+          "econ": "4.80",
+          "0s": "26",
+          "4s": "4",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "Wahab Riaz",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "46",
+          "wickets": "3",
+          "econ": "4.60",
+          "0s": "29",
+          "4s": "2",
+          "6s": "1",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "Shadab Khan",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "50",
+          "wickets": "3",
+          "econ": "5.00",
+          "0s": "26",
+          "4s": "3",
+          "6s": "1",
+          "wd": "1",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }

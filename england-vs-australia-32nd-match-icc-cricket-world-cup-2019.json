@@ -2,20 +2,457 @@
   "result": {
     "teams": [
       {
-        "name": "England",
-        "shortName": "England",
-        "abbrev": "ENG",
-        "score": ""
-      },
-      {
         "name": "Australia",
         "shortName": "Australia",
         "abbrev": "AUS",
-        "score": ""
+        "score": "285/7"
+      },
+      {
+        "name": "England",
+        "shortName": "England",
+        "abbrev": "ENG",
+        "score": "221 (44.4/50 ov)"
       }
     ],
-    "info": "32nd match, ICC Cricket World Cup at London, Jun 25 2019",
-    "scoreNotes": "TBP"
+    "info": "32nd match, ICC Cricket World Cup at Lord's, Jun 25 2019",
+    "scoreNotes": "Australia won by 64 runs"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "AJ Finch (c)",
+          "commentary": "c Woakes b Archer",
+          "r": "100",
+          "b": "116",
+          "m": "144",
+          "4s": "11",
+          "6s": "2",
+          "sr": "86.20",
+          "wicket": {
+            "over": "35.3",
+            "score": "185/3"
+          }
+        },
+        {
+          "name": "DA Warner",
+          "commentary": "c Root b Ali",
+          "r": "53",
+          "b": "61",
+          "m": "95",
+          "4s": "6",
+          "6s": "0",
+          "sr": "86.88",
+          "wicket": {
+            "over": "22.4",
+            "score": "123/1"
+          }
+        },
+        {
+          "name": "UT Khawaja",
+          "commentary": " b Stokes",
+          "r": "23",
+          "b": "29",
+          "m": "32",
+          "4s": "1",
+          "6s": "0",
+          "sr": "79.31",
+          "wicket": {
+            "over": "32.2",
+            "score": "173/2"
+          }
+        },
+        {
+          "name": "SPD Smith",
+          "commentary": "c Archer b Woakes",
+          "r": "38",
+          "b": "34",
+          "m": "64",
+          "4s": "5",
+          "6s": "0",
+          "sr": "111.76",
+          "wicket": {
+            "over": "45.4",
+            "score": "250/6"
+          }
+        },
+        {
+          "name": "GJ Maxwell",
+          "commentary": "c †Buttler b Wood",
+          "r": "12",
+          "b": "8",
+          "m": "14",
+          "4s": "1",
+          "6s": "1",
+          "sr": "150.00",
+          "wicket": {
+            "over": "38.2",
+            "score": "213/4"
+          }
+        },
+        {
+          "name": "MP Stoinis",
+          "commentary": "run out (Bairstow/Rashid/†Buttler)",
+          "r": "8",
+          "b": "15",
+          "m": "17",
+          "4s": "1",
+          "6s": "0",
+          "sr": "53.33",
+          "wicket": {
+            "over": "41.5",
+            "score": "228/5"
+          }
+        },
+        {
+          "name": "AT Carey †",
+          "commentary": "not out",
+          "r": "38",
+          "b": "27",
+          "m": "41",
+          "4s": "5",
+          "6s": "0",
+          "sr": "140.74"
+        },
+        {
+          "name": "PJ Cummins",
+          "commentary": "c †Buttler b Woakes",
+          "r": "1",
+          "b": "4",
+          "m": "8",
+          "4s": "0",
+          "6s": "0",
+          "sr": "25.00",
+          "wicket": {
+            "over": "47.1",
+            "score": "259/7"
+          }
+        },
+        {
+          "name": "MA Starc",
+          "commentary": "not out",
+          "r": "4",
+          "b": "6",
+          "m": "15",
+          "4s": "0",
+          "6s": "0",
+          "sr": "66.66"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "CR Woakes",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "46",
+          "wickets": "2",
+          "econ": "4.60",
+          "0s": "35",
+          "4s": "6",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "JC Archer",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "56",
+          "wickets": "1",
+          "econ": "6.22",
+          "0s": "31",
+          "4s": "7",
+          "6s": "1",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "MA Wood",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "59",
+          "wickets": "1",
+          "econ": "6.55",
+          "0s": "28",
+          "4s": "9",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "BA Stokes",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "29",
+          "wickets": "1",
+          "econ": "4.83",
+          "0s": "17",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "MM Ali",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "42",
+          "wickets": "1",
+          "econ": "7.00",
+          "0s": "12",
+          "4s": "1",
+          "6s": "2",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "49",
+          "wickets": "0",
+          "econ": "4.90",
+          "0s": "31",
+          "4s": "5",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "JM Vince",
+          "commentary": " b Behrendorff",
+          "r": "0",
+          "b": "2",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "0.2",
+            "score": "0/1"
+          }
+        },
+        {
+          "name": "JM Bairstow",
+          "commentary": "c Cummins b Behrendorff",
+          "r": "27",
+          "b": "39",
+          "m": "68",
+          "4s": "5",
+          "6s": "0",
+          "sr": "69.23",
+          "wicket": {
+            "over": "13.5",
+            "score": "53/4"
+          }
+        },
+        {
+          "name": "JE Root",
+          "commentary": "lbw b Starc",
+          "r": "8",
+          "b": "9",
+          "m": "16",
+          "4s": "2",
+          "6s": "0",
+          "sr": "88.88",
+          "wicket": {
+            "over": "3.3",
+            "score": "15/2"
+          }
+        },
+        {
+          "name": "EJG Morgan (c)",
+          "commentary": "c Cummins b Starc",
+          "r": "4",
+          "b": "7",
+          "m": "13",
+          "4s": "1",
+          "6s": "0",
+          "sr": "57.14",
+          "wicket": {
+            "over": "5.5",
+            "score": "26/3"
+          }
+        },
+        {
+          "name": "BA Stokes",
+          "commentary": " b Starc",
+          "r": "89",
+          "b": "115",
+          "m": "138",
+          "4s": "8",
+          "6s": "2",
+          "sr": "77.39",
+          "wicket": {
+            "over": "36.6",
+            "score": "177/6"
+          }
+        },
+        {
+          "name": "JC Buttler †",
+          "commentary": "c Khawaja b Stoinis",
+          "r": "25",
+          "b": "27",
+          "m": "60",
+          "4s": "2",
+          "6s": "0",
+          "sr": "92.59",
+          "wicket": {
+            "over": "27.2",
+            "score": "124/5"
+          }
+        },
+        {
+          "name": "CR Woakes",
+          "commentary": "c Finch b Behrendorff",
+          "r": "26",
+          "b": "34",
+          "m": "64",
+          "4s": "2",
+          "6s": "0",
+          "sr": "76.47",
+          "wicket": {
+            "over": "41.3",
+            "score": "202/8"
+          }
+        },
+        {
+          "name": "MM Ali",
+          "commentary": "c †Carey b Behrendorff",
+          "r": "6",
+          "b": "9",
+          "m": "14",
+          "4s": "1",
+          "6s": "0",
+          "sr": "66.66",
+          "wicket": {
+            "over": "39.3",
+            "score": "189/7"
+          }
+        },
+        {
+          "name": "AU Rashid",
+          "commentary": "c Stoinis b Starc",
+          "r": "25",
+          "b": "20",
+          "m": "24",
+          "4s": "3",
+          "6s": "1",
+          "sr": "125.00",
+          "wicket": {
+            "over": "44.4",
+            "score": "221/10"
+          }
+        },
+        {
+          "name": "JC Archer",
+          "commentary": "c Warner b Behrendorff",
+          "r": "1",
+          "b": "4",
+          "m": "10",
+          "4s": "0",
+          "6s": "0",
+          "sr": "25.00",
+          "wicket": {
+            "over": "43.3",
+            "score": "211/9"
+          }
+        },
+        {
+          "name": "MA Wood",
+          "commentary": "not out",
+          "r": "1",
+          "b": "2",
+          "m": "6",
+          "4s": "0",
+          "6s": "0",
+          "sr": "50.00"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "JP Behrendorff",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "44",
+          "wickets": "5",
+          "econ": "4.40",
+          "0s": "41",
+          "4s": "8",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "MA Starc",
+          "overs": "8.4",
+          "maiden": "1",
+          "runs": "43",
+          "wickets": "4",
+          "econ": "4.96",
+          "0s": "29",
+          "4s": "5",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "8",
+          "maiden": "1",
+          "runs": "41",
+          "wickets": "0",
+          "econ": "5.12",
+          "0s": "30",
+          "4s": "7",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "NM Lyon",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "43",
+          "wickets": "0",
+          "econ": "4.77",
+          "0s": "27",
+          "4s": "2",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "MP Stoinis",
+          "overs": "7",
+          "maiden": "0",
+          "runs": "29",
+          "wickets": "1",
+          "econ": "4.14",
+          "0s": "21",
+          "4s": "2",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "2",
+          "maiden": "0",
+          "runs": "15",
+          "wickets": "0",
+          "econ": "7.50",
+          "0s": "7",
+          "4s": "0",
+          "6s": "2",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }
