@@ -5,17 +5,481 @@
         "name": "England",
         "shortName": "England",
         "abbrev": "ENG",
-        "score": ""
+        "score": "305/8"
       },
       {
         "name": "New Zealand",
         "shortName": "New Zealand",
         "abbrev": "NZ",
-        "score": ""
+        "score": "186 (45/50 ov)"
       }
     ],
     "info": "41st match, ICC Cricket World Cup at Chester-le-Street, Jul 3 2019",
-    "scoreNotes": "TBP"
+    "scoreNotes": "England won by 119 runs"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "JJ Roy",
+          "commentary": "c Santner b Neesham",
+          "r": "60",
+          "b": "61",
+          "m": "81",
+          "4s": "8",
+          "6s": "0",
+          "sr": "98.36",
+          "wicket": {
+            "over": "18.4",
+            "score": "123/1"
+          }
+        },
+        {
+          "name": "JM Bairstow",
+          "commentary": " b Henry",
+          "r": "106",
+          "b": "99",
+          "m": "147",
+          "4s": "15",
+          "6s": "1",
+          "sr": "107.07",
+          "wicket": {
+            "over": "31.4",
+            "score": "206/3"
+          }
+        },
+        {
+          "name": "JE Root",
+          "commentary": "c †Latham b Boult",
+          "r": "24",
+          "b": "25",
+          "m": "54",
+          "4s": "1",
+          "6s": "0",
+          "sr": "96.00",
+          "wicket": {
+            "over": "30.1",
+            "score": "194/2"
+          }
+        },
+        {
+          "name": "JC Buttler †",
+          "commentary": "c Williamson b Boult",
+          "r": "11",
+          "b": "12",
+          "m": "25",
+          "4s": "1",
+          "6s": "0",
+          "sr": "91.66",
+          "wicket": {
+            "over": "34.2",
+            "score": "214/4"
+          }
+        },
+        {
+          "name": "EJG Morgan (c)",
+          "commentary": "c Santner b Henry",
+          "r": "42",
+          "b": "40",
+          "m": "64",
+          "4s": "5",
+          "6s": "0",
+          "sr": "105.00",
+          "wicket": {
+            "over": "46.1",
+            "score": "272/7"
+          }
+        },
+        {
+          "name": "BA Stokes",
+          "commentary": "c Henry b Santner",
+          "r": "11",
+          "b": "27",
+          "m": "33",
+          "4s": "0",
+          "6s": "0",
+          "sr": "40.74",
+          "wicket": {
+            "over": "41.6",
+            "score": "248/5"
+          }
+        },
+        {
+          "name": "CR Woakes",
+          "commentary": "c Williamson b Neesham",
+          "r": "4",
+          "b": "11",
+          "m": "12",
+          "4s": "0",
+          "6s": "0",
+          "sr": "36.36",
+          "wicket": {
+            "over": "44.5",
+            "score": "259/6"
+          }
+        },
+        {
+          "name": "LE Plunkett",
+          "commentary": "not out",
+          "r": "15",
+          "b": "12",
+          "m": "28",
+          "4s": "1",
+          "6s": "0",
+          "sr": "125.00"
+        },
+        {
+          "name": "AU Rashid",
+          "commentary": " b Southee",
+          "r": "16",
+          "b": "12",
+          "m": "17",
+          "4s": "1",
+          "6s": "0",
+          "sr": "133.33",
+          "wicket": {
+            "over": "49.3",
+            "score": "301/8"
+          }
+        },
+        {
+          "name": "JC Archer",
+          "commentary": "not out",
+          "r": "1",
+          "b": "1",
+          "m": "1",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "MJ Santner",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "65",
+          "wickets": "1",
+          "econ": "6.50",
+          "0s": "24",
+          "4s": "7",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "TA Boult",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "56",
+          "wickets": "2",
+          "econ": "5.60",
+          "0s": "30",
+          "4s": "6",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "TG Southee",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "70",
+          "wickets": "1",
+          "econ": "7.77",
+          "0s": "23",
+          "4s": "10",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "MJ Henry",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "54",
+          "wickets": "2",
+          "econ": "5.40",
+          "0s": "30",
+          "4s": "5",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "C de Grandhomme",
+          "overs": "1",
+          "maiden": "0",
+          "runs": "11",
+          "wickets": "0",
+          "econ": "11.00",
+          "0s": "1",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "JDS Neesham",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "41",
+          "wickets": "2",
+          "econ": "4.10",
+          "0s": "31",
+          "4s": "2",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "MJ Guptill",
+          "commentary": "c †Buttler b Archer",
+          "r": "8",
+          "b": "16",
+          "m": "25",
+          "4s": "1",
+          "6s": "0",
+          "sr": "50.00",
+          "wicket": {
+            "over": "5.2",
+            "score": "14/2"
+          }
+        },
+        {
+          "name": "HM Nicholls",
+          "commentary": "lbw b Woakes",
+          "r": "0",
+          "b": "1",
+          "m": "6",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "0.5",
+            "score": "2/1"
+          }
+        },
+        {
+          "name": "KS Williamson (c)",
+          "commentary": "run out (Wood)",
+          "r": "27",
+          "b": "40",
+          "m": "62",
+          "4s": "3",
+          "6s": "0",
+          "sr": "67.50",
+          "wicket": {
+            "over": "15.1",
+            "score": "61/3"
+          }
+        },
+        {
+          "name": "LRPL Taylor",
+          "commentary": "run out (Rashid/†Buttler)",
+          "r": "28",
+          "b": "42",
+          "m": "54",
+          "4s": "2",
+          "6s": "0",
+          "sr": "66.66",
+          "wicket": {
+            "over": "16.4",
+            "score": "69/4"
+          }
+        },
+        {
+          "name": "TWM Latham †",
+          "commentary": "c †Buttler b Plunkett",
+          "r": "57",
+          "b": "65",
+          "m": "106",
+          "4s": "5",
+          "6s": "0",
+          "sr": "87.69",
+          "wicket": {
+            "over": "38.3",
+            "score": "164/7"
+          }
+        },
+        {
+          "name": "JDS Neesham",
+          "commentary": " b Wood",
+          "r": "19",
+          "b": "27",
+          "m": "31",
+          "4s": "1",
+          "6s": "0",
+          "sr": "70.37",
+          "wicket": {
+            "over": "25.1",
+            "score": "123/5"
+          }
+        },
+        {
+          "name": "C de Grandhomme",
+          "commentary": "c Root b Stokes",
+          "r": "3",
+          "b": "13",
+          "m": "15",
+          "4s": "0",
+          "6s": "0",
+          "sr": "23.07",
+          "wicket": {
+            "over": "28.1",
+            "score": "128/6"
+          }
+        },
+        {
+          "name": "MJ Santner",
+          "commentary": "lbw b Wood",
+          "r": "12",
+          "b": "30",
+          "m": "58",
+          "4s": "1",
+          "6s": "0",
+          "sr": "40.00",
+          "wicket": {
+            "over": "39.2",
+            "score": "166/8"
+          }
+        },
+        {
+          "name": "TG Southee",
+          "commentary": "not out",
+          "r": "7",
+          "b": "16",
+          "m": "30",
+          "4s": "0",
+          "6s": "0",
+          "sr": "43.75"
+        },
+        {
+          "name": "MJ Henry",
+          "commentary": " b Wood",
+          "r": "7",
+          "b": "13",
+          "m": "17",
+          "4s": "0",
+          "6s": "0",
+          "sr": "53.84",
+          "wicket": {
+            "over": "43.4",
+            "score": "181/9"
+          }
+        },
+        {
+          "name": "TA Boult",
+          "commentary": "st †Buttler b Rashid",
+          "r": "4",
+          "b": "7",
+          "m": "7",
+          "4s": "1",
+          "6s": "0",
+          "sr": "57.14",
+          "wicket": {
+            "over": "44.6",
+            "score": "186/10"
+          }
+        }
+      ],
+      "bowling": [
+        {
+          "name": "CR Woakes",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "44",
+          "wickets": "1",
+          "econ": "5.50",
+          "0s": "29",
+          "4s": "6",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "JC Archer",
+          "overs": "7",
+          "maiden": "1",
+          "runs": "17",
+          "wickets": "1",
+          "econ": "2.42",
+          "0s": "31",
+          "4s": "1",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "LE Plunkett",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "28",
+          "wickets": "1",
+          "econ": "3.50",
+          "0s": "26",
+          "4s": "1",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "MA Wood",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "34",
+          "wickets": "3",
+          "econ": "3.77",
+          "0s": "35",
+          "4s": "2",
+          "6s": "0",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "JE Root",
+          "overs": "3",
+          "maiden": "0",
+          "runs": "15",
+          "wickets": "0",
+          "econ": "5.00",
+          "0s": "7",
+          "4s": "1",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "5",
+          "maiden": "0",
+          "runs": "30",
+          "wickets": "1",
+          "econ": "6.00",
+          "0s": "12",
+          "4s": "3",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "BA Stokes",
+          "overs": "5",
+          "maiden": "0",
+          "runs": "10",
+          "wickets": "1",
+          "econ": "2.00",
+          "0s": "21",
+          "4s": "0",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }

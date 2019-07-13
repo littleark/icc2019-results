@@ -2,20 +2,459 @@
   "result": {
     "teams": [
       {
-        "name": "Australia",
-        "shortName": "Australia",
-        "abbrev": "AUS",
-        "score": ""
-      },
-      {
         "name": "South Africa",
         "shortName": "South Africa",
         "abbrev": "SA",
-        "score": ""
+        "score": "325/6"
+      },
+      {
+        "name": "Australia",
+        "shortName": "Australia",
+        "abbrev": "AUS",
+        "score": "315 (49.5/50 ov)"
       }
     ],
     "info": "45th match (D/N), ICC Cricket World Cup at Manchester, Jul 6 2019",
-    "scoreNotes": "TBP"
+    "scoreNotes": "South Africa won by 10 runs"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "AK Markram",
+          "commentary": "st †Carey b Lyon",
+          "r": "34",
+          "b": "37",
+          "m": "51",
+          "4s": "6",
+          "6s": "1",
+          "sr": "91.89",
+          "wicket": {
+            "over": "11.3",
+            "score": "79/1"
+          }
+        },
+        {
+          "name": "Q de Kock †",
+          "commentary": "c Starc b Lyon",
+          "r": "52",
+          "b": "51",
+          "m": "78",
+          "4s": "7",
+          "6s": "0",
+          "sr": "101.96",
+          "wicket": {
+            "over": "17.4",
+            "score": "114/2"
+          }
+        },
+        {
+          "name": "F du Plessis (c)",
+          "commentary": "c Starc b Behrendorff",
+          "r": "100",
+          "b": "94",
+          "m": "125",
+          "4s": "7",
+          "6s": "2",
+          "sr": "106.38",
+          "wicket": {
+            "over": "42.6",
+            "score": "265/3"
+          }
+        },
+        {
+          "name": "HE van der Dussen",
+          "commentary": "c Maxwell b Cummins",
+          "r": "95",
+          "b": "97",
+          "m": "136",
+          "4s": "4",
+          "6s": "4",
+          "sr": "97.93",
+          "wicket": {
+            "over": "49.6",
+            "score": "325/6"
+          }
+        },
+        {
+          "name": "JP Duminy",
+          "commentary": "c Stoinis b Starc",
+          "r": "14",
+          "b": "13",
+          "m": "18",
+          "4s": "1",
+          "6s": "0",
+          "sr": "107.69",
+          "wicket": {
+            "over": "46.5",
+            "score": "295/4"
+          }
+        },
+        {
+          "name": "D Pretorius",
+          "commentary": " b Starc",
+          "r": "2",
+          "b": "5",
+          "m": "13",
+          "4s": "0",
+          "6s": "0",
+          "sr": "40.00",
+          "wicket": {
+            "over": "48.5",
+            "score": "317/5"
+          }
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "commentary": "not out",
+          "r": "4",
+          "b": "3",
+          "m": "8",
+          "4s": "1",
+          "6s": "0",
+          "sr": "133.33"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "MA Starc",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "59",
+          "wickets": "2",
+          "econ": "6.55",
+          "0s": "27",
+          "4s": "7",
+          "6s": "0",
+          "wd": "4",
+          "nb": "0"
+        },
+        {
+          "name": "JP Behrendorff",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "55",
+          "wickets": "1",
+          "econ": "6.87",
+          "0s": "21",
+          "4s": "6",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "NM Lyon",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "53",
+          "wickets": "2",
+          "econ": "5.30",
+          "0s": "32",
+          "4s": "4",
+          "6s": "2",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "66",
+          "wickets": "1",
+          "econ": "7.33",
+          "0s": "28",
+          "4s": "6",
+          "6s": "2",
+          "wd": "3",
+          "nb": "0"
+        },
+        {
+          "name": "SPD Smith",
+          "overs": "1",
+          "maiden": "0",
+          "runs": "5",
+          "wickets": "0",
+          "econ": "5.00",
+          "0s": "4",
+          "4s": "1",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "MP Stoinis",
+          "overs": "3",
+          "maiden": "0",
+          "runs": "19",
+          "wickets": "0",
+          "econ": "6.33",
+          "0s": "5",
+          "4s": "1",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "57",
+          "wickets": "0",
+          "econ": "5.70",
+          "0s": "22",
+          "4s": "1",
+          "6s": "2",
+          "wd": "1",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "DA Warner",
+          "commentary": "c Morris b Pretorius",
+          "r": "122",
+          "b": "117",
+          "m": "168",
+          "4s": "15",
+          "6s": "2",
+          "sr": "104.27",
+          "wicket": {
+            "over": "39.1",
+            "score": "227/5"
+          }
+        },
+        {
+          "name": "AJ Finch (c)",
+          "commentary": "c Markram b Imran Tahir",
+          "r": "3",
+          "b": "4",
+          "m": "9",
+          "4s": "0",
+          "6s": "0",
+          "sr": "75.00",
+          "wicket": {
+            "over": "2.1",
+            "score": "5/1"
+          }
+        },
+        {
+          "name": "UT Khawaja",
+          "commentary": " b Rabada",
+          "r": "18",
+          "b": "14",
+          "m": "26",
+          "4s": "3",
+          "6s": "0",
+          "sr": "128.57",
+          "wicket": {
+            "over": "48.1",
+            "score": "301/8"
+          }
+        },
+        {
+          "name": "SPD Smith",
+          "commentary": "lbw b Pretorius",
+          "r": "7",
+          "b": "6",
+          "m": "9",
+          "4s": "1",
+          "6s": "0",
+          "sr": "116.66",
+          "wicket": {
+            "over": "6.3",
+            "score": "33/2"
+          }
+        },
+        {
+          "name": "MP Stoinis",
+          "commentary": "run out (Rabada/†de Kock)",
+          "r": "22",
+          "b": "34",
+          "m": "54",
+          "4s": "4",
+          "6s": "0",
+          "sr": "64.70",
+          "wicket": {
+            "over": "18.3",
+            "score": "95/3"
+          }
+        },
+        {
+          "name": "GJ Maxwell",
+          "commentary": "c †de Kock b Rabada",
+          "r": "12",
+          "b": "20",
+          "m": "24",
+          "4s": "1",
+          "6s": "0",
+          "sr": "60.00",
+          "wicket": {
+            "over": "24.1",
+            "score": "119/4"
+          }
+        },
+        {
+          "name": "AT Carey †",
+          "commentary": "c Markram b Morris",
+          "r": "85",
+          "b": "69",
+          "m": "90",
+          "4s": "11",
+          "6s": "1",
+          "sr": "123.18",
+          "wicket": {
+            "over": "45.2",
+            "score": "275/7"
+          }
+        },
+        {
+          "name": "PJ Cummins",
+          "commentary": "c Duminy b Phehlukwayo",
+          "r": "9",
+          "b": "15",
+          "m": "24",
+          "4s": "1",
+          "6s": "0",
+          "sr": "60.00",
+          "wicket": {
+            "over": "44.4",
+            "score": "272/6"
+          }
+        },
+        {
+          "name": "MA Starc",
+          "commentary": " b Rabada",
+          "r": "16",
+          "b": "11",
+          "m": "24",
+          "4s": "1",
+          "6s": "1",
+          "sr": "145.45",
+          "wicket": {
+            "over": "48.5",
+            "score": "306/9"
+          }
+        },
+        {
+          "name": "JP Behrendorff",
+          "commentary": "not out",
+          "r": "11",
+          "b": "6",
+          "m": "10",
+          "4s": "0",
+          "6s": "0",
+          "sr": "183.33"
+        },
+        {
+          "name": "NM Lyon",
+          "commentary": "c Markram b Phehlukwayo",
+          "r": "3",
+          "b": "3",
+          "m": "7",
+          "4s": "0",
+          "6s": "0",
+          "sr": "100.00",
+          "wicket": {
+            "over": "49.5",
+            "score": "315/10"
+          }
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Imran Tahir",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "59",
+          "wickets": "1",
+          "econ": "6.55",
+          "0s": "23",
+          "4s": "7",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "K Rabada",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "56",
+          "wickets": "3",
+          "econ": "5.60",
+          "0s": "33",
+          "4s": "6",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "D Pretorius",
+          "overs": "6",
+          "maiden": "2",
+          "runs": "27",
+          "wickets": "2",
+          "econ": "4.50",
+          "0s": "26",
+          "4s": "5",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "CH Morris",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "63",
+          "wickets": "1",
+          "econ": "7.00",
+          "0s": "24",
+          "4s": "7",
+          "6s": "2",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "T Shamsi",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "62",
+          "wickets": "0",
+          "econ": "6.88",
+          "0s": "20",
+          "4s": "7",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "AL Phehlukwayo",
+          "overs": "2.5",
+          "maiden": "0",
+          "runs": "22",
+          "wickets": "2",
+          "econ": "7.76",
+          "0s": "5",
+          "4s": "2",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "JP Duminy",
+          "overs": "4",
+          "maiden": "0",
+          "runs": "22",
+          "wickets": "0",
+          "econ": "5.50",
+          "0s": "11",
+          "4s": "3",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }

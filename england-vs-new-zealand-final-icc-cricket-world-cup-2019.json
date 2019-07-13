@@ -1,0 +1,21 @@
+{
+  "result": {
+    "teams": [
+      {
+        "name": "England",
+        "shortName": "England",
+        "abbrev": "ENG",
+        "score": ""
+      },
+      {
+        "name": "New Zealand",
+        "shortName": "New Zealand",
+        "abbrev": "NZ",
+        "score": ""
+      }
+    ],
+    "info": "Final, ICC Cricket World Cup at Lord's, Jul 14 2019",
+    "scoreNotes": "TBP"
+  },
+  "players": []
+}

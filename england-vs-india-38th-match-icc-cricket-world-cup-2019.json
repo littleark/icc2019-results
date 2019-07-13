@@ -5,17 +5,381 @@
         "name": "England",
         "shortName": "England",
         "abbrev": "ENG",
-        "score": ""
+        "score": "337/7"
       },
       {
         "name": "India",
         "shortName": "India",
         "abbrev": "INDIA",
-        "score": ""
+        "score": "306/5 (50 ov)"
       }
     ],
     "info": "38th match, ICC Cricket World Cup at Birmingham, Jun 30 2019",
-    "scoreNotes": "TBP"
+    "scoreNotes": "England won by 31 runs"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "JJ Roy",
+          "commentary": "c sub (RA Jadeja) b Kuldeep Yadav",
+          "r": "66",
+          "b": "57",
+          "m": "101",
+          "4s": "7",
+          "6s": "2",
+          "sr": "115.78",
+          "wicket": {
+            "over": "22.1",
+            "score": "160/1"
+          }
+        },
+        {
+          "name": "JM Bairstow",
+          "commentary": "c Pant b Mohammed Shami",
+          "r": "111",
+          "b": "109",
+          "m": "138",
+          "4s": "10",
+          "6s": "6",
+          "sr": "101.83",
+          "wicket": {
+            "over": "31.4",
+            "score": "205/2"
+          }
+        },
+        {
+          "name": "JE Root",
+          "commentary": "c Pandya b Mohammed Shami",
+          "r": "44",
+          "b": "54",
+          "m": "96",
+          "4s": "2",
+          "6s": "0",
+          "sr": "81.48",
+          "wicket": {
+            "over": "44.1",
+            "score": "277/4"
+          }
+        },
+        {
+          "name": "EJG Morgan (c)",
+          "commentary": "c Jadhav b Mohammed Shami",
+          "r": "1",
+          "b": "9",
+          "m": "10",
+          "4s": "0",
+          "6s": "0",
+          "sr": "11.11",
+          "wicket": {
+            "over": "33.4",
+            "score": "207/3"
+          }
+        },
+        {
+          "name": "BA Stokes",
+          "commentary": "c sub (RA Jadeja) b Bumrah",
+          "r": "79",
+          "b": "54",
+          "m": "80",
+          "4s": "6",
+          "6s": "3",
+          "sr": "146.29",
+          "wicket": {
+            "over": "49.4",
+            "score": "336/7"
+          }
+        },
+        {
+          "name": "JC Buttler †",
+          "commentary": "c & b Mohammed Shami",
+          "r": "20",
+          "b": "8",
+          "m": "17",
+          "4s": "1",
+          "6s": "2",
+          "sr": "250.00",
+          "wicket": {
+            "over": "46.6",
+            "score": "310/5"
+          }
+        },
+        {
+          "name": "CR Woakes",
+          "commentary": "c Sharma b Mohammed Shami",
+          "r": "7",
+          "b": "5",
+          "m": "8",
+          "4s": "1",
+          "6s": "0",
+          "sr": "140.00",
+          "wicket": {
+            "over": "48.1",
+            "score": "319/6"
+          }
+        },
+        {
+          "name": "LE Plunkett",
+          "commentary": "not out",
+          "r": "1",
+          "b": "4",
+          "m": "11",
+          "4s": "0",
+          "6s": "0",
+          "sr": "25.00"
+        },
+        {
+          "name": "JC Archer",
+          "commentary": "not out",
+          "r": "0",
+          "b": "0",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "-"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mohammed Shami",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "69",
+          "wickets": "5",
+          "econ": "6.90",
+          "0s": "37",
+          "4s": "8",
+          "6s": "3",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "JJ Bumrah",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "44",
+          "wickets": "1",
+          "econ": "4.40",
+          "0s": "30",
+          "4s": "3",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "YS Chahal",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "88",
+          "wickets": "0",
+          "econ": "8.80",
+          "0s": "28",
+          "4s": "7",
+          "6s": "6",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "HH Pandya",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "60",
+          "wickets": "0",
+          "econ": "6.00",
+          "0s": "22",
+          "4s": "4",
+          "6s": "1",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "72",
+          "wickets": "1",
+          "econ": "7.20",
+          "0s": "25",
+          "4s": "5",
+          "6s": "3",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "KL Rahul",
+          "commentary": "c & b Woakes",
+          "r": "0",
+          "b": "9",
+          "m": "10",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "2.3",
+            "score": "8/1"
+          }
+        },
+        {
+          "name": "RG Sharma",
+          "commentary": "c †Buttler b Woakes",
+          "r": "102",
+          "b": "109",
+          "m": "152",
+          "4s": "15",
+          "6s": "0",
+          "sr": "93.57",
+          "wicket": {
+            "over": "36.1",
+            "score": "198/3"
+          }
+        },
+        {
+          "name": "V Kohli (c)",
+          "commentary": "c sub (JM Vince) b Plunkett",
+          "r": "66",
+          "b": "76",
+          "m": "103",
+          "4s": "7",
+          "6s": "0",
+          "sr": "86.84",
+          "wicket": {
+            "over": "28.2",
+            "score": "146/2"
+          }
+        },
+        {
+          "name": "RR Pant",
+          "commentary": "c Woakes b Plunkett",
+          "r": "32",
+          "b": "29",
+          "m": "58",
+          "4s": "4",
+          "6s": "0",
+          "sr": "110.34",
+          "wicket": {
+            "over": "39.1",
+            "score": "226/4"
+          }
+        },
+        {
+          "name": "HH Pandya",
+          "commentary": "c sub (JM Vince) b Plunkett",
+          "r": "45",
+          "b": "33",
+          "m": "49",
+          "4s": "4",
+          "6s": "0",
+          "sr": "136.36",
+          "wicket": {
+            "over": "44.5",
+            "score": "267/5"
+          }
+        },
+        {
+          "name": "MS Dhoni †",
+          "commentary": "not out",
+          "r": "42",
+          "b": "31",
+          "m": "54",
+          "4s": "4",
+          "6s": "1",
+          "sr": "135.48"
+        },
+        {
+          "name": "KM Jadhav",
+          "commentary": "not out",
+          "r": "12",
+          "b": "13",
+          "m": "24",
+          "4s": "1",
+          "6s": "0",
+          "sr": "92.30"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "CR Woakes",
+          "overs": "10",
+          "maiden": "3",
+          "runs": "58",
+          "wickets": "2",
+          "econ": "5.80",
+          "0s": "35",
+          "4s": "7",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "JC Archer",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "45",
+          "wickets": "0",
+          "econ": "4.50",
+          "0s": "33",
+          "4s": "5",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "LE Plunkett",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "55",
+          "wickets": "3",
+          "econ": "5.50",
+          "0s": "27",
+          "4s": "4",
+          "6s": "0",
+          "wd": "4",
+          "nb": "0"
+        },
+        {
+          "name": "MA Wood",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "73",
+          "wickets": "0",
+          "econ": "7.30",
+          "0s": "19",
+          "4s": "9",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "AU Rashid",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "40",
+          "wickets": "0",
+          "econ": "6.66",
+          "0s": "12",
+          "4s": "5",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "BA Stokes",
+          "overs": "4",
+          "maiden": "0",
+          "runs": "34",
+          "wickets": "0",
+          "econ": "8.50",
+          "0s": "7",
+          "4s": "5",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }

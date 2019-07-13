@@ -5,17 +5,449 @@
         "name": "Sri Lanka",
         "shortName": "Sri Lanka",
         "abbrev": "SL",
-        "score": ""
+        "score": "338/6"
       },
       {
         "name": "West Indies",
         "shortName": "West Indies",
         "abbrev": "WI",
-        "score": ""
+        "score": "315/9 (50 ov)"
       }
     ],
     "info": "39th match, ICC Cricket World Cup at Chester-le-Street, Jul 1 2019",
-    "scoreNotes": "TBP"
+    "scoreNotes": "Sri Lanka won by 23 runs"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "FDM Karunaratne (c)",
+          "commentary": "c †Hope b Holder",
+          "r": "32",
+          "b": "48",
+          "m": "69",
+          "4s": "4",
+          "6s": "0",
+          "sr": "66.66",
+          "wicket": {
+            "over": "15.2",
+            "score": "93/1"
+          }
+        },
+        {
+          "name": "MDKJ Perera †",
+          "commentary": "run out (Cottrell/Brathwaite)",
+          "r": "64",
+          "b": "51",
+          "m": "87",
+          "4s": "8",
+          "6s": "0",
+          "sr": "125.49",
+          "wicket": {
+            "over": "18.1",
+            "score": "104/2"
+          }
+        },
+        {
+          "name": "WIA Fernando",
+          "commentary": "c Allen b Cottrell",
+          "r": "104",
+          "b": "103",
+          "m": "151",
+          "4s": "9",
+          "6s": "2",
+          "sr": "100.97",
+          "wicket": {
+            "over": "47.2",
+            "score": "314/5"
+          }
+        },
+        {
+          "name": "BKG Mendis",
+          "commentary": "c & b Allen",
+          "r": "39",
+          "b": "41",
+          "m": "53",
+          "4s": "4",
+          "6s": "0",
+          "sr": "95.12",
+          "wicket": {
+            "over": "31.5",
+            "score": "189/3"
+          }
+        },
+        {
+          "name": "AD Mathews",
+          "commentary": " b Holder",
+          "r": "26",
+          "b": "20",
+          "m": "45",
+          "4s": "2",
+          "6s": "1",
+          "sr": "130.00",
+          "wicket": {
+            "over": "39.1",
+            "score": "247/4"
+          }
+        },
+        {
+          "name": "HDRL Thirimanne",
+          "commentary": "not out",
+          "r": "45",
+          "b": "33",
+          "m": "53",
+          "4s": "4",
+          "6s": "0",
+          "sr": "136.36"
+        },
+        {
+          "name": "I Udana",
+          "commentary": "c Holder b Thomas",
+          "r": "3",
+          "b": "6",
+          "m": "9",
+          "4s": "0",
+          "6s": "0",
+          "sr": "50.00",
+          "wicket": {
+            "over": "48.6",
+            "score": "327/6"
+          }
+        },
+        {
+          "name": "DM de Silva",
+          "commentary": "not out",
+          "r": "6",
+          "b": "3",
+          "m": "5",
+          "4s": "1",
+          "6s": "0",
+          "sr": "200.00"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "SS Cottrell",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "69",
+          "wickets": "1",
+          "econ": "6.90",
+          "0s": "28",
+          "4s": "5",
+          "6s": "2",
+          "wd": "2",
+          "nb": "0"
+        },
+        {
+          "name": "O Thomas",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "58",
+          "wickets": "1",
+          "econ": "5.80",
+          "0s": "32",
+          "4s": "7",
+          "6s": "0",
+          "wd": "0",
+          "nb": "2"
+        },
+        {
+          "name": "ST Gabriel",
+          "overs": "5",
+          "maiden": "0",
+          "runs": "46",
+          "wickets": "0",
+          "econ": "9.20",
+          "0s": "12",
+          "4s": "7",
+          "6s": "0",
+          "wd": "1",
+          "nb": "1"
+        },
+        {
+          "name": "JO Holder",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "59",
+          "wickets": "2",
+          "econ": "5.90",
+          "0s": "24",
+          "4s": "4",
+          "6s": "0",
+          "wd": "1",
+          "nb": "2"
+        },
+        {
+          "name": "CR Brathwaite",
+          "overs": "7",
+          "maiden": "0",
+          "runs": "53",
+          "wickets": "0",
+          "econ": "7.57",
+          "0s": "15",
+          "4s": "5",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "FA Allen",
+          "overs": "8",
+          "maiden": "0",
+          "runs": "44",
+          "wickets": "1",
+          "econ": "5.50",
+          "0s": "23",
+          "4s": "4",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "CH Gayle",
+          "commentary": "c Vandersay b Rajitha",
+          "r": "35",
+          "b": "48",
+          "m": "70",
+          "4s": "1",
+          "6s": "2",
+          "sr": "72.91",
+          "wicket": {
+            "over": "15.2",
+            "score": "71/3"
+          }
+        },
+        {
+          "name": "SW Ambris",
+          "commentary": "c †Perera b Malinga",
+          "r": "5",
+          "b": "6",
+          "m": "11",
+          "4s": "1",
+          "6s": "0",
+          "sr": "83.33",
+          "wicket": {
+            "over": "2.2",
+            "score": "12/1"
+          }
+        },
+        {
+          "name": "SD Hope †",
+          "commentary": " b Malinga",
+          "r": "5",
+          "b": "11",
+          "m": "13",
+          "4s": "1",
+          "6s": "0",
+          "sr": "45.45",
+          "wicket": {
+            "over": "4.6",
+            "score": "22/2"
+          }
+        },
+        {
+          "name": "SO Hetmyer",
+          "commentary": "run out (de Silva)",
+          "r": "29",
+          "b": "38",
+          "m": "62",
+          "4s": "2",
+          "6s": "0",
+          "sr": "76.31",
+          "wicket": {
+            "over": "17.5",
+            "score": "84/4"
+          }
+        },
+        {
+          "name": "N Pooran",
+          "commentary": "c †Perera b Mathews",
+          "r": "118",
+          "b": "103",
+          "m": "156",
+          "4s": "11",
+          "6s": "4",
+          "sr": "114.56",
+          "wicket": {
+            "over": "47.1",
+            "score": "308/8"
+          }
+        },
+        {
+          "name": "JO Holder (c)",
+          "commentary": "c sub (BMAJ Mendis) b Vandersay",
+          "r": "26",
+          "b": "26",
+          "m": "38",
+          "4s": "4",
+          "6s": "0",
+          "sr": "100.00",
+          "wicket": {
+            "over": "28.2",
+            "score": "145/5"
+          }
+        },
+        {
+          "name": "CR Brathwaite",
+          "commentary": "run out (Udana)",
+          "r": "8",
+          "b": "15",
+          "m": "33",
+          "4s": "1",
+          "6s": "0",
+          "sr": "53.33",
+          "wicket": {
+            "over": "34.3",
+            "score": "199/6"
+          }
+        },
+        {
+          "name": "FA Allen",
+          "commentary": "run out (Rajitha/Udana)",
+          "r": "51",
+          "b": "32",
+          "m": "50",
+          "4s": "7",
+          "6s": "1",
+          "sr": "159.37",
+          "wicket": {
+            "over": "44.1",
+            "score": "282/7"
+          }
+        },
+        {
+          "name": "SS Cottrell",
+          "commentary": "not out",
+          "r": "7",
+          "b": "10",
+          "m": "35",
+          "4s": "0",
+          "6s": "0",
+          "sr": "70.00"
+        },
+        {
+          "name": "O Thomas",
+          "commentary": "lbw b Malinga",
+          "r": "1",
+          "b": "6",
+          "m": "8",
+          "4s": "0",
+          "6s": "0",
+          "sr": "16.66",
+          "wicket": {
+            "over": "48.3",
+            "score": "311/9"
+          }
+        },
+        {
+          "name": "ST Gabriel",
+          "commentary": "not out",
+          "r": "3",
+          "b": "7",
+          "m": "7",
+          "4s": "0",
+          "6s": "0",
+          "sr": "42.85"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "SL Malinga",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "55",
+          "wickets": "3",
+          "econ": "5.50",
+          "0s": "34",
+          "4s": "6",
+          "6s": "0",
+          "wd": "4",
+          "nb": "1"
+        },
+        {
+          "name": "DM de Silva",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "49",
+          "wickets": "0",
+          "econ": "4.90",
+          "0s": "31",
+          "4s": "4",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "I Udana",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "67",
+          "wickets": "0",
+          "econ": "6.70",
+          "0s": "27",
+          "4s": "7",
+          "6s": "1",
+          "wd": "3",
+          "nb": "0"
+        },
+        {
+          "name": "CAK Rajitha",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "76",
+          "wickets": "1",
+          "econ": "7.60",
+          "0s": "28",
+          "4s": "6",
+          "6s": "4",
+          "wd": "4",
+          "nb": "1"
+        },
+        {
+          "name": "JDF Vandersay",
+          "overs": "7",
+          "maiden": "0",
+          "runs": "50",
+          "wickets": "1",
+          "econ": "7.14",
+          "0s": "19",
+          "4s": "5",
+          "6s": "0",
+          "wd": "4",
+          "nb": "0"
+        },
+        {
+          "name": "FDM Karunaratne",
+          "overs": "1",
+          "maiden": "0",
+          "runs": "7",
+          "wickets": "0",
+          "econ": "7.00",
+          "0s": "4",
+          "4s": "0",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "AD Mathews",
+          "overs": "2",
+          "maiden": "0",
+          "runs": "6",
+          "wickets": "1",
+          "econ": "3.00",
+          "0s": "7",
+          "4s": "0",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }

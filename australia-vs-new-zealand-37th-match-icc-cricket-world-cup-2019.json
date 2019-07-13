@@ -5,17 +5,521 @@
         "name": "Australia",
         "shortName": "Australia",
         "abbrev": "AUS",
-        "score": ""
+        "score": "243/9"
       },
       {
         "name": "New Zealand",
         "shortName": "New Zealand",
         "abbrev": "NZ",
-        "score": ""
+        "score": "157 (43.4/50 ov)"
       }
     ],
-    "info": "37th match (D/N), ICC Cricket World Cup at London, Jun 29 2019",
-    "scoreNotes": "TBP"
+    "info": "37th match (D/N), ICC Cricket World Cup at Lord's, Jun 29 2019",
+    "scoreNotes": "Australia won by 86 runs"
   },
-  "players": []
+  "players": [
+    {
+      "batsmen": [
+        {
+          "name": "DA Warner",
+          "commentary": "c †Latham b Ferguson",
+          "r": "16",
+          "b": "23",
+          "m": "39",
+          "4s": "3",
+          "6s": "0",
+          "sr": "69.56",
+          "wicket": {
+            "over": "9.1",
+            "score": "38/2"
+          }
+        },
+        {
+          "name": "AJ Finch (c)",
+          "commentary": "lbw b Boult",
+          "r": "8",
+          "b": "15",
+          "m": "19",
+          "4s": "1",
+          "6s": "0",
+          "sr": "53.33",
+          "wicket": {
+            "over": "4.3",
+            "score": "15/1"
+          }
+        },
+        {
+          "name": "UT Khawaja",
+          "commentary": " b Boult",
+          "r": "88",
+          "b": "129",
+          "m": "187",
+          "4s": "5",
+          "6s": "0",
+          "sr": "68.21",
+          "wicket": {
+            "over": "49.3",
+            "score": "243/7"
+          }
+        },
+        {
+          "name": "SPD Smith",
+          "commentary": "c Guptill b Ferguson",
+          "r": "5",
+          "b": "8",
+          "m": "13",
+          "4s": "0",
+          "6s": "0",
+          "sr": "62.50",
+          "wicket": {
+            "over": "11.2",
+            "score": "46/3"
+          }
+        },
+        {
+          "name": "MP Stoinis",
+          "commentary": "c †Latham b Neesham",
+          "r": "21",
+          "b": "26",
+          "m": "41",
+          "4s": "3",
+          "6s": "0",
+          "sr": "80.76",
+          "wicket": {
+            "over": "19.6",
+            "score": "81/4"
+          }
+        },
+        {
+          "name": "GJ Maxwell",
+          "commentary": "c & b Neesham",
+          "r": "1",
+          "b": "5",
+          "m": "8",
+          "4s": "0",
+          "6s": "0",
+          "sr": "20.00",
+          "wicket": {
+            "over": "21.3",
+            "score": "92/5"
+          }
+        },
+        {
+          "name": "AT Carey †",
+          "commentary": "c Guptill b Williamson",
+          "r": "71",
+          "b": "72",
+          "m": "113",
+          "4s": "11",
+          "6s": "0",
+          "sr": "98.61",
+          "wicket": {
+            "over": "42.6",
+            "score": "199/6"
+          }
+        },
+        {
+          "name": "PJ Cummins",
+          "commentary": "not out",
+          "r": "23",
+          "b": "19",
+          "m": "34",
+          "4s": "1",
+          "6s": "0",
+          "sr": "121.05"
+        },
+        {
+          "name": "MA Starc",
+          "commentary": " b Boult",
+          "r": "0",
+          "b": "1",
+          "m": "2",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "49.4",
+            "score": "243/8"
+          }
+        },
+        {
+          "name": "JP Behrendorff",
+          "commentary": "lbw b Boult",
+          "r": "0",
+          "b": "1",
+          "m": "4",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "49.5",
+            "score": "243/9"
+          }
+        },
+        {
+          "name": "NM Lyon",
+          "commentary": "not out",
+          "r": "0",
+          "b": "1",
+          "m": "1",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "TA Boult",
+          "overs": "10",
+          "maiden": "1",
+          "runs": "51",
+          "wickets": "4",
+          "econ": "5.10",
+          "0s": "35",
+          "4s": "6",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "C de Grandhomme",
+          "overs": "8",
+          "maiden": "1",
+          "runs": "29",
+          "wickets": "0",
+          "econ": "3.62",
+          "0s": "31",
+          "4s": "3",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "LH Ferguson",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "49",
+          "wickets": "2",
+          "econ": "4.90",
+          "0s": "35",
+          "4s": "7",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "IS Sodhi",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "35",
+          "wickets": "0",
+          "econ": "5.83",
+          "0s": "12",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "JDS Neesham",
+          "overs": "6",
+          "maiden": "0",
+          "runs": "28",
+          "wickets": "2",
+          "econ": "4.66",
+          "0s": "21",
+          "4s": "4",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "MJ Santner",
+          "overs": "3",
+          "maiden": "0",
+          "runs": "23",
+          "wickets": "0",
+          "econ": "7.66",
+          "0s": "8",
+          "4s": "2",
+          "6s": "0",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "KS Williamson",
+          "overs": "7",
+          "maiden": "0",
+          "runs": "25",
+          "wickets": "1",
+          "econ": "3.57",
+          "0s": "19",
+          "4s": "0",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    },
+    {
+      "batsmen": [
+        {
+          "name": "MJ Guptill",
+          "commentary": "lbw b Behrendorff",
+          "r": "20",
+          "b": "43",
+          "m": "60",
+          "4s": "2",
+          "6s": "0",
+          "sr": "46.51",
+          "wicket": {
+            "over": "13.1",
+            "score": "42/2"
+          }
+        },
+        {
+          "name": "HM Nicholls",
+          "commentary": "c †Carey b Behrendorff",
+          "r": "8",
+          "b": "20",
+          "m": "43",
+          "4s": "2",
+          "6s": "0",
+          "sr": "40.00",
+          "wicket": {
+            "over": "9.2",
+            "score": "29/1"
+          }
+        },
+        {
+          "name": "KS Williamson (c)",
+          "commentary": "c †Carey b Starc",
+          "r": "40",
+          "b": "51",
+          "m": "69",
+          "4s": "2",
+          "6s": "1",
+          "sr": "78.43",
+          "wicket": {
+            "over": "25.4",
+            "score": "97/3"
+          }
+        },
+        {
+          "name": "LRPL Taylor",
+          "commentary": "c †Carey b Cummins",
+          "r": "30",
+          "b": "54",
+          "m": "76",
+          "4s": "2",
+          "6s": "0",
+          "sr": "55.55",
+          "wicket": {
+            "over": "31.4",
+            "score": "118/4"
+          }
+        },
+        {
+          "name": "TWM Latham †",
+          "commentary": "c Smith b Starc",
+          "r": "14",
+          "b": "28",
+          "m": "41",
+          "4s": "0",
+          "6s": "0",
+          "sr": "50.00",
+          "wicket": {
+            "over": "35.3",
+            "score": "125/6"
+          }
+        },
+        {
+          "name": "C de Grandhomme",
+          "commentary": "c Khawaja b Smith",
+          "r": "0",
+          "b": "1",
+          "m": "6",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "32.1",
+            "score": "118/5"
+          }
+        },
+        {
+          "name": "JDS Neesham",
+          "commentary": "c & b Lyon",
+          "r": "9",
+          "b": "22",
+          "m": "24",
+          "4s": "0",
+          "6s": "0",
+          "sr": "40.90",
+          "wicket": {
+            "over": "38.1",
+            "score": "131/7"
+          }
+        },
+        {
+          "name": "MJ Santner",
+          "commentary": "c Behrendorff b Starc",
+          "r": "12",
+          "b": "29",
+          "m": "42",
+          "4s": "0",
+          "6s": "1",
+          "sr": "41.37",
+          "wicket": {
+            "over": "43.4",
+            "score": "157/10"
+          }
+        },
+        {
+          "name": "IS Sodhi",
+          "commentary": "lbw b Starc",
+          "r": "5",
+          "b": "4",
+          "m": "11",
+          "4s": "1",
+          "6s": "0",
+          "sr": "125.00",
+          "wicket": {
+            "over": "39.6",
+            "score": "141/8"
+          }
+        },
+        {
+          "name": "LH Ferguson",
+          "commentary": " b Starc",
+          "r": "0",
+          "b": "3",
+          "m": "7",
+          "4s": "0",
+          "6s": "0",
+          "sr": "0.00",
+          "wicket": {
+            "over": "41.1",
+            "score": "144/9"
+          }
+        },
+        {
+          "name": "TA Boult",
+          "commentary": "not out",
+          "r": "2",
+          "b": "7",
+          "m": "13",
+          "4s": "0",
+          "6s": "0",
+          "sr": "28.57"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "JP Behrendorff",
+          "overs": "9",
+          "maiden": "0",
+          "runs": "31",
+          "wickets": "2",
+          "econ": "3.44",
+          "0s": "37",
+          "4s": "2",
+          "6s": "0",
+          "wd": "3",
+          "nb": "0"
+        },
+        {
+          "name": "MA Starc",
+          "overs": "9.4",
+          "maiden": "1",
+          "runs": "26",
+          "wickets": "5",
+          "econ": "2.68",
+          "0s": "45",
+          "4s": "2",
+          "6s": "0",
+          "wd": "4",
+          "nb": "0"
+        },
+        {
+          "name": "PJ Cummins",
+          "overs": "6",
+          "maiden": "1",
+          "runs": "14",
+          "wickets": "1",
+          "econ": "2.33",
+          "0s": "28",
+          "4s": "2",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "NM Lyon",
+          "overs": "10",
+          "maiden": "0",
+          "runs": "36",
+          "wickets": "1",
+          "econ": "3.60",
+          "0s": "37",
+          "4s": "1",
+          "6s": "1",
+          "wd": "1",
+          "nb": "0"
+        },
+        {
+          "name": "SPD Smith",
+          "overs": "2",
+          "maiden": "0",
+          "runs": "6",
+          "wickets": "1",
+          "econ": "3.00",
+          "0s": "6",
+          "4s": "0",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "AJ Finch",
+          "overs": "1",
+          "maiden": "0",
+          "runs": "7",
+          "wickets": "0",
+          "econ": "7.00",
+          "0s": "2",
+          "4s": "1",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "MP Stoinis",
+          "overs": "2",
+          "maiden": "0",
+          "runs": "12",
+          "wickets": "0",
+          "econ": "6.00",
+          "0s": "7",
+          "4s": "0",
+          "6s": "1",
+          "wd": "0",
+          "nb": "0"
+        },
+        {
+          "name": "GJ Maxwell",
+          "overs": "4",
+          "maiden": "0",
+          "runs": "18",
+          "wickets": "0",
+          "econ": "4.50",
+          "0s": "10",
+          "4s": "1",
+          "6s": "0",
+          "wd": "0",
+          "nb": "0"
+        }
+      ]
+    }
+  ]
 }
